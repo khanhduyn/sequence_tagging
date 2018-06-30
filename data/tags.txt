@@ -1,0 +1,10 @@
+B-Date
+I-Address
+O
+I-Merchant
+B-Address
+I-Amount
+I-Date
+B-Merchant
+B-Amount
+Amount

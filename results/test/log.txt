@@ -1,0 +1,1343 @@
+2018-06-30 04:00:08,910:INFO: Initializing tf session
+2018-06-30 04:00:09,312:INFO: Epoch 1 out of 15
+2018-06-30 04:00:10,198:INFO: acc 54.12 - f1 0.00
+2018-06-30 04:00:10,374:INFO: - new best score!
+2018-06-30 04:00:10,374:INFO: Epoch 2 out of 15
+2018-06-30 04:00:10,507:INFO: acc 69.41 - f1 0.00
+2018-06-30 04:00:10,724:INFO: - new best score!
+2018-06-30 04:00:10,724:INFO: Epoch 3 out of 15
+2018-06-30 04:00:10,856:INFO: acc 64.71 - f1 0.00
+2018-06-30 04:00:11,031:INFO: - new best score!
+2018-06-30 04:00:11,031:INFO: Epoch 4 out of 15
+2018-06-30 04:00:11,162:INFO: acc 64.71 - f1 0.00
+2018-06-30 04:00:11,329:INFO: - new best score!
+2018-06-30 04:00:11,329:INFO: Epoch 5 out of 15
+2018-06-30 04:00:11,465:INFO: acc 64.71 - f1 0.00
+2018-06-30 04:00:11,635:INFO: - new best score!
+2018-06-30 04:00:11,635:INFO: Epoch 6 out of 15
+2018-06-30 04:00:11,772:INFO: acc 64.71 - f1 0.00
+2018-06-30 04:00:11,937:INFO: - new best score!
+2018-06-30 04:00:11,938:INFO: Epoch 7 out of 15
+2018-06-30 04:00:12,070:INFO: acc 64.71 - f1 0.00
+2018-06-30 04:00:12,241:INFO: - new best score!
+2018-06-30 04:00:12,241:INFO: Epoch 8 out of 15
+2018-06-30 04:00:12,377:INFO: acc 64.71 - f1 0.00
+2018-06-30 04:00:12,545:INFO: - new best score!
+2018-06-30 04:00:12,545:INFO: Epoch 9 out of 15
+2018-06-30 04:00:12,676:INFO: acc 69.41 - f1 0.00
+2018-06-30 04:00:12,847:INFO: - new best score!
+2018-06-30 04:00:12,848:INFO: Epoch 10 out of 15
+2018-06-30 04:00:12,982:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:13,151:INFO: - new best score!
+2018-06-30 04:00:13,151:INFO: Epoch 11 out of 15
+2018-06-30 04:00:13,282:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:13,456:INFO: - new best score!
+2018-06-30 04:00:13,456:INFO: Epoch 12 out of 15
+2018-06-30 04:00:13,593:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:13,762:INFO: - new best score!
+2018-06-30 04:00:13,762:INFO: Epoch 13 out of 15
+2018-06-30 04:00:13,895:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:14,061:INFO: - new best score!
+2018-06-30 04:00:14,062:INFO: Epoch 14 out of 15
+2018-06-30 04:00:14,195:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:14,369:INFO: - new best score!
+2018-06-30 04:00:14,369:INFO: Epoch 15 out of 15
+2018-06-30 04:00:14,504:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:14,668:INFO: - new best score!
+2018-06-30 04:00:44,287:INFO: Initializing tf session
+2018-06-30 04:00:44,413:INFO: Reloading the latest trained model...
+2018-06-30 04:00:44,414:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 04:00:44,489:INFO: Testing model over test set
+2018-06-30 04:00:44,624:INFO: acc 74.12 - f1 42.11
+2018-06-30 04:00:44,624:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 04:01:02,593:INFO: I love   paris 
+2018-06-30 04:01:02,593:INFO: O I-MISC I-LOC 
+2018-06-30 04:01:22,037:INFO: I love   Paris 
+2018-06-30 04:01:22,037:INFO: O I-MISC I-LOC 
+2018-06-30 04:01:27,291:INFO:   
+2018-06-30 04:01:27,291:INFO: O 
+2018-06-30 04:01:27,551:INFO:   
+2018-06-30 04:01:27,552:INFO: O 
+2018-06-30 04:01:27,715:INFO:   
+2018-06-30 04:01:27,716:INFO: O 
+2018-06-30 04:06:08,839:INFO: Initializing tf session
+2018-06-30 04:06:09,249:INFO: Epoch 1 out of 15
+2018-06-30 04:06:27,588:INFO: acc 92.44 - f1 58.35
+2018-06-30 04:06:27,774:INFO: - new best score!
+2018-06-30 04:06:27,774:INFO: Epoch 2 out of 15
+2018-06-30 04:06:45,388:INFO: acc 95.82 - f1 79.60
+2018-06-30 04:06:45,605:INFO: - new best score!
+2018-06-30 04:06:45,605:INFO: Epoch 3 out of 15
+2018-06-30 04:07:03,415:INFO: acc 97.23 - f1 85.14
+2018-06-30 04:07:03,593:INFO: - new best score!
+2018-06-30 04:07:03,593:INFO: Epoch 4 out of 15
+2018-06-30 04:07:21,353:INFO: acc 97.65 - f1 86.45
+2018-06-30 04:07:21,525:INFO: - new best score!
+2018-06-30 04:07:21,525:INFO: Epoch 5 out of 15
+2018-06-30 04:07:39,127:INFO: acc 97.85 - f1 88.35
+2018-06-30 04:07:39,300:INFO: - new best score!
+2018-06-30 04:07:39,300:INFO: Epoch 6 out of 15
+2018-06-30 04:07:57,726:INFO: acc 97.87 - f1 88.42
+2018-06-30 04:07:57,922:INFO: - new best score!
+2018-06-30 04:07:57,922:INFO: Epoch 7 out of 15
+2018-06-30 04:08:16,862:INFO: acc 98.03 - f1 88.89
+2018-06-30 04:08:17,049:INFO: - new best score!
+2018-06-30 04:08:17,050:INFO: Epoch 8 out of 15
+2018-06-30 04:08:37,155:INFO: acc 98.15 - f1 89.68
+2018-06-30 04:08:37,382:INFO: - new best score!
+2018-06-30 04:08:37,382:INFO: Epoch 9 out of 15
+2018-06-30 04:08:56,069:INFO: acc 98.45 - f1 91.45
+2018-06-30 04:08:56,238:INFO: - new best score!
+2018-06-30 04:08:56,238:INFO: Epoch 10 out of 15
+2018-06-30 04:09:14,406:INFO: acc 98.56 - f1 92.60
+2018-06-30 04:09:14,581:INFO: - new best score!
+2018-06-30 04:09:14,581:INFO: Epoch 11 out of 15
+2018-06-30 04:09:32,167:INFO: acc 98.67 - f1 92.71
+2018-06-30 04:09:32,345:INFO: - new best score!
+2018-06-30 04:09:32,345:INFO: Epoch 12 out of 15
+2018-06-30 04:09:50,476:INFO: acc 98.76 - f1 93.47
+2018-06-30 04:09:50,646:INFO: - new best score!
+2018-06-30 04:09:50,647:INFO: Epoch 13 out of 15
+2018-06-30 04:10:08,252:INFO: acc 98.77 - f1 93.43
+2018-06-30 04:10:08,252:INFO: Epoch 14 out of 15
+2018-06-30 04:10:25,843:INFO: acc 98.85 - f1 94.22
+2018-06-30 04:10:26,013:INFO: - new best score!
+2018-06-30 04:10:26,013:INFO: Epoch 15 out of 15
+2018-06-30 04:10:43,651:INFO: acc 98.89 - f1 93.85
+2018-06-30 04:10:58,554:INFO: Initializing tf session
+2018-06-30 04:10:58,685:INFO: Reloading the latest trained model...
+2018-06-30 04:10:58,685:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 04:10:58,762:INFO: Testing model over test set
+2018-06-30 04:11:02,987:INFO: acc 98.85 - f1 94.22
+2018-06-30 04:11:02,987:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 04:11:08,080:INFO: I love Paris 
+2018-06-30 04:11:08,080:INFO: O O    O     
+2018-06-30 04:11:20,610:INFO: CIRCLEK    VIETNAM    
+2018-06-30 04:11:20,610:INFO: B-Merchant I-Merchant 
+2018-06-30 04:11:32,131:INFO: tong 123 
+2018-06-30 04:11:32,131:INFO: O    O   
+2018-06-30 04:11:36,095:INFO: Tong 123 
+2018-06-30 04:11:36,095:INFO: O    O   
+2018-06-30 04:11:44,306:INFO: Pho Quang 
+2018-06-30 04:11:44,307:INFO: O   O     
+2018-06-30 04:11:52,392:INFO: 124 Pho Quang     
+2018-06-30 04:11:52,393:INFO: O   O   I-Address 
+2018-06-30 04:12:00,771:INFO: Jun 
+2018-06-30 04:12:00,771:INFO: O   
+2018-06-30 04:12:04,886:INFO: Jun 28 
+2018-06-30 04:12:04,887:INFO: O   O  
+2018-06-30 04:12:18,583:INFO: Date: Jun    28,    2018   02:35 PM 
+2018-06-30 04:12:18,583:INFO: O     B-Date I-Date I-Date O     O  
+2018-06-30 04:12:27,635:INFO: Date: Jun    28,    2018   02:35 PM 
+2018-06-30 04:12:27,635:INFO: O     B-Date I-Date I-Date O     O  
+2018-06-30 04:12:49,251:INFO: Date: Jun    29,    2019   02:35 PM 
+2018-06-30 04:12:49,251:INFO: O     B-Date I-Date I-Date O     O  
+2018-06-30 04:13:03,767:INFO: Date: Apr    29,    2019   02:35 PM 
+2018-06-30 04:13:03,767:INFO: O     B-Date I-Date I-Date O     O  
+2018-06-30 04:13:24,369:INFO: Date: 29,    2019   02:35 PM 
+2018-06-30 04:13:24,369:INFO: O     B-Date I-Date O     O  
+2018-06-30 04:13:38,448:INFO: Date: 2019 02:35 PM 
+2018-06-30 04:13:38,448:INFO: O     O    O     O  
+2018-06-30 04:13:55,049:INFO: Date: Jun    2019   02:35 PM 
+2018-06-30 04:13:55,050:INFO: O     B-Date I-Date O     O  
+2018-06-30 04:14:09,587:INFO: 1 Item(s) (VAT included) 14,000   
+2018-06-30 04:14:09,588:INFO: O O       O    O         B-Amount 
+2018-06-30 04:14:32,669:INFO: 1 Item(s) (VAT ) 14,000   
+2018-06-30 04:14:32,670:INFO: O O       O    O B-Amount 
+2018-06-30 04:14:43,520:INFO: 1 Item (VAT ) 14,000   
+2018-06-30 04:14:43,521:INFO: O O    O    O B-Amount 
+2018-06-30 04:14:55,665:INFO: 1 Item (VAT ) 14,0000000 
+2018-06-30 04:14:55,665:INFO: O O    O    O O          
+2018-06-30 04:15:13,034:INFO: 1 Item (VAT ) 200,000 
+2018-06-30 04:15:13,034:INFO: O O    O    O O       
+2018-06-30 04:15:33,247:INFO: 1 Item(s) (VAT included) 14,0000  
+2018-06-30 04:15:33,248:INFO: O O       O    O         B-Amount 
+2018-06-30 04:15:47,919:INFO: 1 Item(s) (VAT included) 140000   
+2018-06-30 04:15:47,919:INFO: O O       O    O         B-Amount 
+2018-06-30 04:16:00,341:INFO: 1 Item(s) (VAT included) 2000000  
+2018-06-30 04:16:00,341:INFO: O O       O    O         B-Amount 
+2018-06-30 04:16:37,163:INFO: TOTAL 
+2018-06-30 04:16:37,164:INFO: O     
+2018-06-30 04:16:37,166:INFO: 21.49 
+2018-06-30 04:16:37,167:INFO: O     
+2018-06-30 04:16:52,298:INFO: Total 200      
+2018-06-30 04:16:52,299:INFO: O     B-Amount 
+2018-06-30 04:16:55,873:INFO: [A 
+2018-06-30 04:16:55,873:INFO: O   
+2018-06-30 04:16:56,057:INFO:   
+2018-06-30 04:16:56,057:INFO: O 
+2018-06-30 04:16:56,234:INFO:   
+2018-06-30 04:16:56,234:INFO: O 
+2018-06-30 04:16:56,344:INFO:   
+2018-06-30 04:16:56,344:INFO: O 
+2018-06-30 04:16:58,910:INFO: total 200 
+2018-06-30 04:16:58,910:INFO: O     O   
+2018-06-30 04:17:04,055:INFO: Total 200      
+2018-06-30 04:17:04,055:INFO: O     B-Amount 
+2018-06-30 04:17:12,209:INFO: Tot 200 
+2018-06-30 04:17:12,210:INFO: O   O   
+2018-06-30 04:17:19,534:INFO: Totol 200      
+2018-06-30 04:17:19,535:INFO: O     B-Amount 
+2018-06-30 04:20:09,297:INFO: thanh toan 
+2018-06-30 04:20:09,297:INFO: O     O    
+2018-06-30 04:20:14,924:INFO: Thanh Toan 200 
+2018-06-30 04:20:14,925:INFO: O     O    O   
+2018-06-30 04:20:18,364:INFO: Tong 200 
+2018-06-30 04:20:18,364:INFO: O    O   
+2018-06-30 04:20:25,409:INFO: Tong 1 200      
+2018-06-30 04:20:25,409:INFO: O    O B-Amount 
+2018-06-30 04:20:34,451:INFO: Ton 2 44 
+2018-06-30 04:20:34,451:INFO: O   O O  
+2018-06-30 04:20:41,404:INFO: Tong Tien 2 4444 
+2018-06-30 04:20:41,404:INFO: O    O    O O    
+2018-06-30 04:20:46,956:INFO: Tong 5 1111 
+2018-06-30 04:20:46,956:INFO: O    O O    
+2018-06-30 04:20:51,092:INFO: Tong 1 4444 
+2018-06-30 04:20:51,093:INFO: O    O O    
+2018-06-30 04:20:58,767:INFO: Tong 1 2000     
+2018-06-30 04:20:58,767:INFO: O    O B-Amount 
+2018-06-30 04:21:09,880:INFO: Tong 1 23 
+2018-06-30 04:21:09,881:INFO: O    O O  
+2018-06-30 04:21:16,189:INFO: Tong 1 2323434 
+2018-06-30 04:21:16,189:INFO: O    O O       
+2018-06-30 04:21:51,105:INFO: CircleK 
+2018-06-30 04:21:51,106:INFO: O       
+2018-06-30 04:21:56,704:INFO: Circle K          
+2018-06-30 04:21:56,705:INFO: O      I-Merchant 
+2018-06-30 04:22:11,041:INFO: Circle K          Ho         Chi Minh 
+2018-06-30 04:22:11,041:INFO: O      I-Merchant I-Merchant O   O    
+2018-06-30 04:22:23,363:INFO: Cua Hang Circle K 
+2018-06-30 04:22:23,363:INFO: O   O    O      O 
+2018-06-30 04:30:08,790:INFO: 400 Total 
+2018-06-30 04:30:08,790:INFO: O   O     
+2018-06-30 04:30:20,591:INFO: Total 
+2018-06-30 04:30:20,591:INFO: O     
+2018-06-30 04:30:28,657:INFO: 300 Total 
+2018-06-30 04:30:28,658:INFO: O   O     
+2018-06-30 04:30:40,536:INFO: 300 Total 300 
+2018-06-30 04:30:40,536:INFO: O   O     O   
+2018-06-30 04:30:47,935:INFO: 400 Total 400 
+2018-06-30 04:30:47,936:INFO: O   O     O   
+2018-06-30 04:30:55,642:INFO: Total 234234 
+2018-06-30 04:30:55,642:INFO: O     O      
+2018-06-30 04:31:00,493:INFO: Total 3430000 
+2018-06-30 04:31:00,493:INFO: O     O       
+2018-06-30 04:31:04,521:INFO: Total 200      
+2018-06-30 04:31:04,522:INFO: O     B-Amount 
+2018-06-30 04:31:09,878:INFO: Total 300 
+2018-06-30 04:31:09,879:INFO: O     O   
+2018-06-30 04:31:16,157:INFO: Total 400      
+2018-06-30 04:31:16,158:INFO: O     B-Amount 
+2018-06-30 04:31:21,874:INFO: Total 300 
+2018-06-30 04:31:21,874:INFO: O     O   
+2018-06-30 04:37:22,957:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:37:22,957:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:37:22,970:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:37:22,970:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:37:22,975:INFO: Cira hang s01: 
+2018-06-30 04:37:22,975:INFO: O    O    O    
+2018-06-30 04:37:22,980:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:37:22,980:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:37:22,985:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:37:22,985:INFO: O      O         O    O   
+2018-06-30 04:37:22,991:INFO: HOA 
+2018-06-30 04:37:22,992:INFO: O   
+2018-06-30 04:37:22,996:INFO: DO'N BAN LE 
+2018-06-30 04:37:22,996:INFO: O    O   O  
+2018-06-30 04:37:23,001:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:37:23,001:INFO: O    O   O  O   O     O     
+2018-06-30 04:37:23,005:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:37:23,005:INFO: B-Date     O       
+2018-06-30 04:37:23,013:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:37:23,013:INFO: O     O       O     
+2018-06-30 04:37:23,015:INFO: T.Tien 
+2018-06-30 04:37:23,016:INFO: O      
+2018-06-30 04:37:23,019:INFO: SL 
+2018-06-30 04:37:23,019:INFO: O  
+2018-06-30 04:37:23,022:INFO: 0.23 260,000 
+2018-06-30 04:37:23,022:INFO: O    O       
+2018-06-30 04:37:23,026:INFO: Tong cong : 0.23 9,800    
+2018-06-30 04:37:23,026:INFO: O    O    O O    B-Amount 
+2018-06-30 04:37:23,032:INFO: 500,000 
+2018-06-30 04:37:23,032:INFO: O       
+2018-06-30 04:37:23,035:INFO: 440,200 
+2018-06-30 04:37:23,035:INFO: O       
+2018-06-30 04:37:23,040:INFO: Xin cam on va gap Quy khach! 
+2018-06-30 04:37:23,040:INFO: O   O   O  O  O   O   O      
+2018-06-30 04:38:47,536:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:38:47,536:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:38:47,550:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:38:47,550:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:38:47,561:INFO: Cira hang s01: 
+2018-06-30 04:38:47,562:INFO: O    O    O    
+2018-06-30 04:38:47,571:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:38:47,571:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:38:47,576:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:38:47,576:INFO: O      O         O    O   
+2018-06-30 04:38:47,578:INFO: HOA 
+2018-06-30 04:38:47,578:INFO: O   
+2018-06-30 04:38:47,581:INFO: DO'N BAN LE 
+2018-06-30 04:38:47,581:INFO: O    O   O  
+2018-06-30 04:38:47,591:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:38:47,591:INFO: O    O   O  O   O     O     
+2018-06-30 04:38:47,596:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:38:47,596:INFO: B-Date     O       
+2018-06-30 04:38:47,600:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:38:47,600:INFO: O     O       O     
+2018-06-30 04:38:47,602:INFO: T.Tien 
+2018-06-30 04:38:47,602:INFO: O      
+2018-06-30 04:38:47,604:INFO: SL 
+2018-06-30 04:38:47,604:INFO: O  
+2018-06-30 04:38:47,607:INFO: 0.23 260,000 
+2018-06-30 04:38:47,607:INFO: O    O       
+2018-06-30 04:38:47,617:INFO: Tong cong : 0.23 10000000000 
+2018-06-30 04:38:47,617:INFO: O    O    O O    B-Amount    
+2018-06-30 04:38:47,619:INFO: 500,000 
+2018-06-30 04:38:47,619:INFO: O       
+2018-06-30 04:38:47,623:INFO: 440,200 
+2018-06-30 04:38:47,623:INFO: O       
+2018-06-30 04:39:04,271:INFO: Xin cam on va gap Quy khach!NONG SAN NHA QUE 
+2018-06-30 04:39:04,271:INFO: O   O   O  O  O   O   O          O   O   O   
+2018-06-30 04:39:04,280:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:39:04,280:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:39:04,287:INFO: Cira hang s01: 
+2018-06-30 04:39:04,287:INFO: O    O    O    
+2018-06-30 04:39:04,295:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:39:04,296:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:39:04,306:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:39:04,307:INFO: O      O         O    O   
+2018-06-30 04:39:04,310:INFO: HOA 
+2018-06-30 04:39:04,310:INFO: O   
+2018-06-30 04:39:04,314:INFO: DO'N BAN LE 
+2018-06-30 04:39:04,314:INFO: O    O   O  
+2018-06-30 04:39:04,320:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:39:04,320:INFO: O    O   O  O   O     O     
+2018-06-30 04:39:04,325:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:39:04,325:INFO: B-Date     O       
+2018-06-30 04:39:04,330:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:39:04,330:INFO: O     O       O     
+2018-06-30 04:39:04,332:INFO: T.Tien 
+2018-06-30 04:39:04,332:INFO: O      
+2018-06-30 04:39:04,334:INFO: SL 
+2018-06-30 04:39:04,334:INFO: O  
+2018-06-30 04:39:04,337:INFO: 0.23 260,000 
+2018-06-30 04:39:04,337:INFO: O    O       
+2018-06-30 04:39:04,346:INFO: Tong cong : 0.23 2222222  
+2018-06-30 04:39:04,346:INFO: O    O    O O    B-Amount 
+2018-06-30 04:39:04,349:INFO: 500,000 
+2018-06-30 04:39:04,349:INFO: O       
+2018-06-30 04:39:04,351:INFO: 440,200 
+2018-06-30 04:39:04,352:INFO: O       
+2018-06-30 04:39:19,627:INFO: Xin cam on va gap Quy khach!NONG SAN NHA QUE 
+2018-06-30 04:39:19,627:INFO: O   O   O  O  O   O   O          O   O   O   
+2018-06-30 04:39:19,636:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:39:19,636:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:39:19,643:INFO: Cira hang s01: 
+2018-06-30 04:39:19,643:INFO: O    O    O    
+2018-06-30 04:39:19,651:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:39:19,651:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:39:19,656:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:39:19,656:INFO: O      O         O    O   
+2018-06-30 04:39:19,658:INFO: HOA 
+2018-06-30 04:39:19,658:INFO: O   
+2018-06-30 04:39:19,664:INFO: DO'N BAN LE 
+2018-06-30 04:39:19,664:INFO: O    O   O  
+2018-06-30 04:39:19,669:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:39:19,669:INFO: O    O   O  O   O     O     
+2018-06-30 04:39:19,673:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:39:19,673:INFO: B-Date     O       
+2018-06-30 04:39:19,677:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:39:19,677:INFO: O     O       O     
+2018-06-30 04:39:19,680:INFO: T.Tien 
+2018-06-30 04:39:19,681:INFO: O      
+2018-06-30 04:39:19,682:INFO: SL 
+2018-06-30 04:39:19,683:INFO: O  
+2018-06-30 04:39:19,685:INFO: 0.23 260,000 
+2018-06-30 04:39:19,686:INFO: O    O       
+2018-06-30 04:39:19,689:INFO: Tong cong 0.23 2222222  
+2018-06-30 04:39:19,689:INFO: O    O    O    B-Amount 
+2018-06-30 04:39:19,691:INFO: 500,000 
+2018-06-30 04:39:19,692:INFO: O       
+2018-06-30 04:39:19,697:INFO: 440,200 
+2018-06-30 04:39:19,697:INFO: O       
+2018-06-30 04:39:34,657:INFO: Xin cam on va gap Quy khach!NONG SAN NHA QUE 
+2018-06-30 04:39:34,657:INFO: O   O   O  O  O   O   O          O   O   O   
+2018-06-30 04:39:34,671:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:39:34,671:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:39:34,678:INFO: Cira hang s01: 
+2018-06-30 04:39:34,678:INFO: O    O    O    
+2018-06-30 04:39:34,689:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:39:34,689:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:39:34,693:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:39:34,693:INFO: O      O         O    O   
+2018-06-30 04:39:34,695:INFO: HOA 
+2018-06-30 04:39:34,696:INFO: O   
+2018-06-30 04:39:34,700:INFO: DO'N BAN LE 
+2018-06-30 04:39:34,700:INFO: O    O   O  
+2018-06-30 04:39:34,705:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:39:34,705:INFO: O    O   O  O   O     O     
+2018-06-30 04:39:34,708:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:39:34,708:INFO: B-Date     O       
+2018-06-30 04:39:34,712:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:39:34,712:INFO: O     O       O     
+2018-06-30 04:39:34,714:INFO: T.Tien 
+2018-06-30 04:39:34,715:INFO: O      
+2018-06-30 04:39:34,718:INFO: SL 
+2018-06-30 04:39:34,719:INFO: O  
+2018-06-30 04:39:34,722:INFO: 0.23 260,000 
+2018-06-30 04:39:34,723:INFO: O    O       
+2018-06-30 04:39:34,726:INFO: Tong cong 2222222 
+2018-06-30 04:39:34,726:INFO: O    O    O       
+2018-06-30 04:39:34,729:INFO: 500,000 
+2018-06-30 04:39:34,730:INFO: O       
+2018-06-30 04:39:34,732:INFO: 440,200 
+2018-06-30 04:39:34,732:INFO: O       
+2018-06-30 04:39:34,737:INFO: Xin cam on va gap Quy khach! 
+2018-06-30 04:39:34,738:INFO: O   O   O  O  O   O   O      
+2018-06-30 04:39:50,592:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:39:50,592:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:39:50,599:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:39:50,599:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:39:50,607:INFO: Cira hang s01: 
+2018-06-30 04:39:50,607:INFO: O    O    O    
+2018-06-30 04:39:50,613:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:39:50,613:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:39:50,619:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:39:50,619:INFO: O      O         O    O   
+2018-06-30 04:39:50,623:INFO: HOA 
+2018-06-30 04:39:50,623:INFO: O   
+2018-06-30 04:39:50,627:INFO: DO'N BAN LE 
+2018-06-30 04:39:50,627:INFO: O    O   O  
+2018-06-30 04:39:50,631:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:39:50,632:INFO: O    O   O  O   O     O     
+2018-06-30 04:39:50,635:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:39:50,635:INFO: B-Date     O       
+2018-06-30 04:39:50,638:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:39:50,638:INFO: O     O       O     
+2018-06-30 04:39:50,640:INFO: T.Tien 
+2018-06-30 04:39:50,640:INFO: O      
+2018-06-30 04:39:50,642:INFO: SL 
+2018-06-30 04:39:50,642:INFO: O  
+2018-06-30 04:39:50,647:INFO: 0.23 260,000 
+2018-06-30 04:39:50,647:INFO: O    O       
+2018-06-30 04:39:50,652:INFO: Tong cong 0.23 23232 
+2018-06-30 04:39:50,652:INFO: O    O    O    O     
+2018-06-30 04:39:50,654:INFO: 500,000 
+2018-06-30 04:39:50,654:INFO: O       
+2018-06-30 04:39:50,656:INFO: 440,200 
+2018-06-30 04:39:50,656:INFO: O       
+2018-06-30 04:40:20,557:INFO: Xin cam on va gap Quy khach!NONG SAN NHA QUE 
+2018-06-30 04:40:20,558:INFO: O   O   O  O  O   O   O          O   O   O   
+2018-06-30 04:40:20,573:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:40:20,573:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:40:20,580:INFO: Cira hang s01: 
+2018-06-30 04:40:20,581:INFO: O    O    O    
+2018-06-30 04:40:20,589:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:40:20,590:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:40:20,596:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:40:20,596:INFO: O      O         O    O   
+2018-06-30 04:40:20,598:INFO: HOA 
+2018-06-30 04:40:20,598:INFO: O   
+2018-06-30 04:40:20,603:INFO: DO'N BAN LE 
+2018-06-30 04:40:20,603:INFO: O    O   O  
+2018-06-30 04:40:20,613:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:40:20,613:INFO: O    O   O  O   O     O     
+2018-06-30 04:40:20,616:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:40:20,616:INFO: B-Date     O       
+2018-06-30 04:40:20,619:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:40:20,619:INFO: O     O       O     
+2018-06-30 04:40:20,622:INFO: T.Tien 
+2018-06-30 04:40:20,622:INFO: O      
+2018-06-30 04:40:20,623:INFO: SL 
+2018-06-30 04:40:20,623:INFO: O  
+2018-06-30 04:40:20,626:INFO: 0.23 260,000 
+2018-06-30 04:40:20,626:INFO: O    O       
+2018-06-30 04:40:20,632:INFO: Tong cong 0.23 233333000 
+2018-06-30 04:40:20,632:INFO: O    O    O    O         
+2018-06-30 04:40:20,635:INFO: 500,000 
+2018-06-30 04:40:20,635:INFO: O       
+2018-06-30 04:40:20,637:INFO: 440,200 
+2018-06-30 04:40:20,637:INFO: O       
+2018-06-30 04:40:20,641:INFO: Xin cam on va gap Quy khach! 
+2018-06-30 04:40:20,642:INFO: O   O   O  O  O   O   O      
+2018-06-30 04:40:42,352:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:40:42,352:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:40:42,361:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:40:42,362:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:40:42,367:INFO: Cira hang s01: 
+2018-06-30 04:40:42,368:INFO: O    O    O    
+2018-06-30 04:40:42,374:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:40:42,374:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:40:42,378:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:40:42,378:INFO: O      O         O    O   
+2018-06-30 04:40:42,380:INFO: HOA 
+2018-06-30 04:40:42,381:INFO: O   
+2018-06-30 04:40:42,387:INFO: DO'N BAN LE 
+2018-06-30 04:40:42,387:INFO: O    O   O  
+2018-06-30 04:40:42,393:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:40:42,394:INFO: O    O   O  O   O     O     
+2018-06-30 04:40:42,397:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:40:42,397:INFO: B-Date     O       
+2018-06-30 04:40:42,400:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:40:42,400:INFO: O     O       O     
+2018-06-30 04:40:42,404:INFO: T.Tien 
+2018-06-30 04:40:42,405:INFO: O      
+2018-06-30 04:40:42,408:INFO: SL 
+2018-06-30 04:40:42,408:INFO: O  
+2018-06-30 04:40:42,412:INFO: 0.23 260,000 
+2018-06-30 04:40:42,412:INFO: O    O       
+2018-06-30 04:40:42,416:INFO: Tong cong 0.23 3000     
+2018-06-30 04:40:42,416:INFO: O    O    O    B-Amount 
+2018-06-30 04:40:42,418:INFO: 500,000 
+2018-06-30 04:40:42,418:INFO: O       
+2018-06-30 04:40:42,420:INFO: 440,200 
+2018-06-30 04:40:42,420:INFO: O       
+2018-06-30 04:40:42,430:INFO: Xin cam on va gap Quy khach! 
+2018-06-30 04:40:42,430:INFO: O   O   O  O  O   O   O      
+2018-06-30 04:44:34,530:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:44:34,530:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:44:34,538:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:44:34,539:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:44:34,543:INFO: Cira hang s01: 
+2018-06-30 04:44:34,544:INFO: O    O    O    
+2018-06-30 04:44:34,549:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:44:34,549:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:44:34,557:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:44:34,558:INFO: O      O         O    O   
+2018-06-30 04:44:34,560:INFO: HOA 
+2018-06-30 04:44:34,561:INFO: O   
+2018-06-30 04:44:34,565:INFO: DO'N BAN LE 
+2018-06-30 04:44:34,565:INFO: O    O   O  
+2018-06-30 04:44:34,570:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:44:34,571:INFO: O    O   O  O   O     O     
+2018-06-30 04:44:34,575:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:44:34,575:INFO: B-Date     O       
+2018-06-30 04:44:34,581:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:44:34,581:INFO: O     O       O     
+2018-06-30 04:44:34,584:INFO: T.Tien 
+2018-06-30 04:44:34,584:INFO: O      
+2018-06-30 04:44:34,587:INFO: SL 
+2018-06-30 04:44:34,588:INFO: O  
+2018-06-30 04:44:34,591:INFO: 0.23 260,000 
+2018-06-30 04:44:34,591:INFO: O    O       
+2018-06-30 04:44:34,596:INFO: Tong cong 0.23 3000     
+2018-06-30 04:44:34,596:INFO: O    O    O    B-Amount 
+2018-06-30 04:44:34,602:INFO: 500,000 
+2018-06-30 04:44:34,602:INFO: O       
+2018-06-30 04:44:34,604:INFO: 440,200 
+2018-06-30 04:44:34,605:INFO: O       
+2018-06-30 04:44:34,609:INFO: Xin cam on va gap Quy khach! 
+2018-06-30 04:44:34,609:INFO: O   O   O  O  O   O   O      
+2018-06-30 04:45:17,888:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:45:17,888:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:45:17,894:INFO: No lu'c vi an vui ui cong dong 
+2018-06-30 04:45:17,894:INFO: O  O    O  O  O   O  O    O    
+2018-06-30 04:45:17,902:INFO: Cira hang s01: 
+2018-06-30 04:45:17,902:INFO: O    O    O    
+2018-06-30 04:45:17,908:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        vap.      
+2018-06-30 04:45:17,908:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:45:17,914:INFO: DTcira hang:0120 6717 358 
+2018-06-30 04:45:17,914:INFO: O      O         O    O   
+2018-06-30 04:45:17,916:INFO: HOA 
+2018-06-30 04:45:17,916:INFO: O   
+2018-06-30 04:45:17,922:INFO: DO'N BAN LE 
+2018-06-30 04:45:17,922:INFO: O    O   O  
+2018-06-30 04:45:17,927:INFO: Cong su: LE Thi Thanh Trang 
+2018-06-30 04:45:17,927:INFO: O    O   O  O   O     O     
+2018-06-30 04:45:17,930:INFO: 28/06/2018 0:50:43 
+2018-06-30 04:45:17,930:INFO: B-Date     O       
+2018-06-30 04:45:17,934:INFO: SOHD: 0416833 NQ2.1 
+2018-06-30 04:45:17,934:INFO: O     O       O     
+2018-06-30 04:45:17,936:INFO: T.Tien 
+2018-06-30 04:45:17,936:INFO: O      
+2018-06-30 04:45:17,938:INFO: SL 
+2018-06-30 04:45:17,938:INFO: O  
+2018-06-30 04:45:17,943:INFO: 0.23 260,000 
+2018-06-30 04:45:17,943:INFO: O    O       
+2018-06-30 04:45:17,947:INFO: Tong cong 0.23 3000     
+2018-06-30 04:45:17,947:INFO: O    O    O    B-Amount 
+2018-06-30 04:45:17,949:INFO: 500,000 
+2018-06-30 04:45:17,949:INFO: O       
+2018-06-30 04:45:17,951:INFO: 440,200 
+2018-06-30 04:45:17,951:INFO: O       
+2018-06-30 04:45:17,956:INFO: Xin cam on va gap Quy khach! 
+2018-06-30 04:45:17,956:INFO: O   O   O  O  O   O   O      
+2018-06-30 04:45:38,994:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:45:38,994:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:45:39,006:INFO: No luc vi an vui cong dong 
+2018-06-30 04:45:39,007:INFO: O  O   O  O  O   O    O    
+2018-06-30 04:45:39,012:INFO: Cira hang s01: 
+2018-06-30 04:45:39,012:INFO: O    O    O    
+2018-06-30 04:45:39,016:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        Vap.      
+2018-06-30 04:45:39,017:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:45:39,021:INFO: E)Tcua hang:0120 06717 358 
+2018-06-30 04:45:39,021:INFO: O      O         O     O   
+2018-06-30 04:45:39,023:INFO: HOADO'N 
+2018-06-30 04:45:39,023:INFO: O       
+2018-06-30 04:45:39,029:INFO: BAN LE 
+2018-06-30 04:45:39,029:INFO: O   O  
+2018-06-30 04:45:39,034:INFO: Thanh Trang 
+2018-06-30 04:45:39,034:INFO: O     O     
+2018-06-30 04:45:39,038:INFO: Ngay gio: 28/06/2018 
+2018-06-30 04:45:39,038:INFO: O    O    B-Date     
+2018-06-30 04:45:39,041:INFO: 0416731 Quay: 
+2018-06-30 04:45:39,041:INFO: O       O     
+2018-06-30 04:45:39,044:INFO: hang sL D.Gia T.Tien 
+2018-06-30 04:45:39,045:INFO: O    O  O     O      
+2018-06-30 04:45:39,054:INFO: ai Ngot 32,000 18,688 
+2018-06-30 04:45:39,054:INFO: O  O    O      O      
+2018-06-30 04:45:39,059:INFO: iNguyen 1.00 7,500 7,500 
+2018-06-30 04:45:39,059:INFO: O       O    O     O     
+2018-06-30 04:45:39,063:INFO: Tong cong : 1.58 
+2018-06-30 04:45:39,063:INFO: O    O    O O    
+2018-06-30 04:45:39,065:INFO: 26,188 
+2018-06-30 04:45:39,065:INFO: O      
+2018-06-30 04:45:39,070:INFO: Tien 
+2018-06-30 04:45:39,071:INFO: O    
+2018-06-30 04:45:39,075:INFO: on lai Quy khach! 
+2018-06-30 04:45:39,075:INFO: O  O   O   O      
+2018-06-30 04:46:40,166:INFO: NONG       SAN        NHA        QUE        
+2018-06-30 04:46:40,166:INFO: B-Merchant I-Merchant I-Merchant I-Merchant 
+2018-06-30 04:46:40,178:INFO: No luc vi an vui cong dong 
+2018-06-30 04:46:40,178:INFO: O  O   O  O  O   O    O    
+2018-06-30 04:46:40,183:INFO: Cira hang s01: 
+2018-06-30 04:46:40,183:INFO: O    O    O    
+2018-06-30 04:46:40,192:INFO: 710/4     Phan      Van       Tri,      P.10,     Go        Vap.      
+2018-06-30 04:46:40,192:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:46:40,198:INFO: E)Tcua hang:0120 06717 358 
+2018-06-30 04:46:40,198:INFO: O      O         O     O   
+2018-06-30 04:46:40,200:INFO: HOADO'N 
+2018-06-30 04:46:40,200:INFO: O       
+2018-06-30 04:46:40,203:INFO: BAN LE 
+2018-06-30 04:46:40,203:INFO: O   O  
+2018-06-30 04:46:40,208:INFO: Thanh Trang 
+2018-06-30 04:46:40,209:INFO: O     O     
+2018-06-30 04:46:40,213:INFO: Ngay gio: 28/06/2018 
+2018-06-30 04:46:40,213:INFO: O    O    B-Date     
+2018-06-30 04:46:40,216:INFO: 0416731 Quay: 
+2018-06-30 04:46:40,216:INFO: O       O     
+2018-06-30 04:46:40,220:INFO: hang sL D.Gia T.Tien 
+2018-06-30 04:46:40,220:INFO: O    O  O     O      
+2018-06-30 04:46:40,224:INFO: ai Ngot 32,000 18,688 
+2018-06-30 04:46:40,224:INFO: O  O    O      O      
+2018-06-30 04:46:40,230:INFO: iNguyen 1.00 7,500 7,500 
+2018-06-30 04:46:40,230:INFO: O       O    O     O     
+2018-06-30 04:46:40,234:INFO: Tong cong : 1.58 
+2018-06-30 04:46:40,234:INFO: O    O    O O    
+2018-06-30 04:46:40,236:INFO: 26,188 
+2018-06-30 04:46:40,236:INFO: O      
+2018-06-30 04:46:40,238:INFO: Tien 
+2018-06-30 04:46:40,238:INFO: O    
+2018-06-30 04:46:40,241:INFO: on lai Quy khach! 
+2018-06-30 04:46:40,242:INFO: O  O   O   O      
+2018-06-30 04:46:41,870:INFO:   
+2018-06-30 04:46:41,871:INFO: O 
+2018-06-30 04:46:49,117:INFO: THE        COFFEE     HOUSE      
+2018-06-30 04:46:49,117:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 04:46:49,128:INFO: 249       Thudng    Kiet,     Quan      11        
+2018-06-30 04:46:49,129:INFO: B-Address I-Address I-Address I-Address I-Address 
+2018-06-30 04:46:49,134:INFO: Delivery: 1800 6936 
+2018-06-30 04:46:49,134:INFO: O         O    O    
+2018-06-30 04:46:49,139:INFO: Hotline: 02871 087 088 
+2018-06-30 04:46:49,139:INFO: O        O     O   O   
+2018-06-30 04:46:49,142:INFO: www.thecoffeehouse.com 
+2018-06-30 04:46:49,142:INFO: O                      
+2018-06-30 04:46:49,152:INFO: i gian: 15.31 So'HE: 1100610285 
+2018-06-30 04:46:49,152:INFO: O O     O     O      O          
+2018-06-30 04:46:49,155:INFO: ngan: Hoang 
+2018-06-30 04:46:49,155:INFO: O     O     
+2018-06-30 04:46:49,159:INFO: Ten mon S D.Gia 
+2018-06-30 04:46:49,160:INFO: O   O   O O     
+2018-06-30 04:46:49,170:INFO: Combo trua chieu 10 65 000      65       000      
+2018-06-30 04:46:49,170:INFO: O     O    O     O  O  B-Amount I-Amount I-Amount 
+2018-06-30 04:46:49,172:INFO: Ce 
+2018-06-30 04:46:49,172:INFO: O  
+2018-06-30 04:46:49,175:INFO: T06.2018 
+2018-06-30 04:46:49,175:INFO: O        
+2018-06-30 04:46:49,179:INFO: 5 000 
+2018-06-30 04:46:49,179:INFO: O O   
+2018-06-30 04:46:49,182:INFO: Thanh tien: 
+2018-06-30 04:46:49,183:INFO: O     O     
+2018-06-30 04:46:49,188:INFO: giam gia: 
+2018-06-30 04:46:49,188:INFO: O    O    
+2018-06-30 04:46:49,191:INFO: Toan 
+2018-06-30 04:46:49,191:INFO: O    
+2018-06-30 04:46:49,193:INFO: 75000 
+2018-06-30 04:46:49,193:INFO: O     
+2018-06-30 04:46:49,196:INFO: n khach 
+2018-06-30 04:46:49,196:INFO: O O     
+2018-06-30 04:46:49,199:INFO: ien thua : 
+2018-06-30 04:46:49,199:INFO: O   O    O 
+2018-06-30 04:46:49,203:INFO: ien mat VND 
+2018-06-30 04:46:49,203:INFO: O   O   O   
+2018-06-30 04:46:49,208:INFO: san pham da bao 10% 
+2018-06-30 04:46:49,209:INFO: O   O    O  O   O   
+2018-06-30 04:46:49,212:INFO: thecoffeehouse 
+2018-06-30 04:46:49,212:INFO: O              
+2018-06-30 04:46:49,217:INFO: phf iao hang hoa don tren 0.000 VND 
+2018-06-30 04:46:49,217:INFO: O   O   O    O   O   O    O     O   
+2018-06-30 04:46:49,219:INFO: ecoffeehouse. 
+2018-06-30 04:46:49,220:INFO: O             
+2018-06-30 09:24:42,161:INFO:   
+2018-06-30 09:24:42,161:INFO: O 
+2018-06-30 09:24:42,349:INFO:   
+2018-06-30 09:24:42,350:INFO: O 
+2018-06-30 09:24:56,565:INFO: Initializing tf session
+2018-06-30 09:24:56,696:INFO: Reloading the latest trained model...
+2018-06-30 09:24:56,696:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:24:56,776:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:25:01,901:INFO: I love Paris 
+2018-06-30 09:25:01,901:INFO: O O    O     
+2018-06-30 09:27:23,010:INFO: Initializing tf session
+2018-06-30 09:27:23,140:INFO: Reloading the latest trained model...
+2018-06-30 09:27:23,140:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:27:23,219:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:27:27,475:INFO: I love Paris 
+2018-06-30 09:27:27,475:INFO: O O    O     
+2018-06-30 09:27:45,100:INFO: Merchant: 'Circle K', 
+2018-06-30 09:27:45,100:INFO: O         O       O   
+2018-06-30 09:27:45,111:INFO: Date: '2018....', 
+2018-06-30 09:27:45,112:INFO: O     B-Date      
+2018-06-30 09:36:08,862:INFO: Initializing tf session
+2018-06-30 09:36:08,996:INFO: Reloading the latest trained model...
+2018-06-30 09:36:08,996:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:38:44,728:INFO: Initializing tf session
+2018-06-30 09:38:44,870:INFO: Reloading the latest trained model...
+2018-06-30 09:38:44,871:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:39:07,581:INFO: Initializing tf session
+2018-06-30 09:39:07,710:INFO: Reloading the latest trained model...
+2018-06-30 09:39:07,710:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:39:07,905:INFO: 521 Hoang VanHoang Van Thu Q.Tan BinhDON23/06/2018(Thu08:10Temakionigiri16.00016,000*tinh:cong:16,000iueSo don:2-69318 Thu ngan:120013khach nhu cau xuat hca don do,vien toi 
+2018-06-30 09:39:07,905:INFO: O   O     O        O   O   O     O                                                                         O           O   O                O   O   O    O   O   O       O   
+2018-06-30 09:40:15,827:INFO: Initializing tf session
+2018-06-30 09:40:15,955:INFO: Reloading the latest trained model...
+2018-06-30 09:40:15,956:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:40:16,151:INFO: 521 Hoang Van
+Hoang Van Thu Q.Tan Binh
+DON
+23/06/2018(Thu
+08:10
+Temakionigiri
+16.000
+16,000*
+tinh:
+cong:
+16,000
+iue
+So don:2-69318 Thu ngan:120013
+khach nhu cau xuat hca don do,
+vien toi 
+2018-06-30 09:40:16,151:INFO: O   O     O         O   O   O     O                                                                                    O           O   O                 O   O   O    O   O   O        O   
+2018-06-30 09:43:25,309:INFO: Initializing tf session
+2018-06-30 09:43:25,439:INFO: Reloading the latest trained model...
+2018-06-30 09:43:25,439:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:43:25,632:INFO: 521 Hoang Van Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:43:25,632:INFO: O   O     O   O     O   O   O     O    
+2018-06-30 09:43:40,371:INFO: Initializing tf session
+2018-06-30 09:43:40,510:INFO: Reloading the latest trained model...
+2018-06-30 09:43:40,510:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:43:40,587:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:43:48,884:INFO: 521 Hoang Van Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:43:48,884:INFO: O   O     O   O     O   O   O     O    
+2018-06-30 09:44:00,036:INFO: 521 Hoang Van 
+2018-06-30 09:44:00,037:INFO: O   O     O   
+2018-06-30 09:44:00,045:INFO: Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:44:00,045:INFO: O     O   O   O     O    
+2018-06-30 09:44:00,048:INFO: DON 
+2018-06-30 09:44:00,048:INFO: O   
+2018-06-30 09:44:00,051:INFO: 23/06/2018(Thu 
+2018-06-30 09:44:00,052:INFO: B-Date         
+2018-06-30 09:44:00,057:INFO: 08:10 
+2018-06-30 09:44:00,058:INFO: O     
+2018-06-30 09:44:00,062:INFO: Temakionigiri 
+2018-06-30 09:44:00,062:INFO: O             
+2018-06-30 09:44:00,064:INFO: 16.000 
+2018-06-30 09:44:00,064:INFO: O      
+2018-06-30 09:44:00,066:INFO: 16,000* 
+2018-06-30 09:44:00,067:INFO: O       
+2018-06-30 09:44:00,068:INFO: tinh: 
+2018-06-30 09:44:00,068:INFO: O     
+2018-06-30 09:44:00,070:INFO: cong: 
+2018-06-30 09:44:00,070:INFO: O     
+2018-06-30 09:44:00,072:INFO: 16,000   
+2018-06-30 09:44:00,073:INFO: B-Amount 
+2018-06-30 09:44:00,078:INFO: iue 
+2018-06-30 09:44:00,079:INFO: O   
+2018-06-30 09:44:00,084:INFO: So don:2-69318 Thu ngan:120013 
+2018-06-30 09:44:00,085:INFO: O  O           O   O           
+2018-06-30 09:44:00,090:INFO: khach nhu cau xuat hca don do, 
+2018-06-30 09:44:00,091:INFO: O     O   O   O    O   O   O   
+2018-06-30 09:44:00,093:INFO: vien toi 
+2018-06-30 09:44:00,093:INFO: O    O   
+2018-06-30 09:44:00,096:INFO: T mua 
+2018-06-30 09:44:00,096:INFO: O O   
+2018-06-30 09:44:00,110:INFO: Thoi xuat hoa don do la 7 ngay. 
+2018-06-30 09:44:00,110:INFO: O    O    O   O   O  O  O O     
+2018-06-30 09:44:00,113:INFO: gia1 thue VAT 
+2018-06-30 09:44:00,113:INFO: O    O    O   
+2018-06-30 09:44:00,116:INFO: pham thue 
+2018-06-30 09:44:00,116:INFO: O    O    
+2018-06-30 09:44:00,118:INFO: uu 
+2018-06-30 09:44:00,118:INFO: O  
+2018-06-30 09:44:00,121:INFO: chuong 
+2018-06-30 09:44:00,121:INFO: O      
+2018-06-30 09:44:00,129:INFO: Cam on ban da pham 
+2018-06-30 09:44:00,130:INFO: O   O  O   O  O    
+2018-06-30 09:44:13,469:INFO:   
+2018-06-30 09:44:13,469:INFO: O 
+2018-06-30 09:44:13,674:INFO:   
+2018-06-30 09:44:13,674:INFO: O 
+2018-06-30 09:44:13,809:INFO:   
+2018-06-30 09:44:13,809:INFO: O 
+2018-06-30 09:44:13,960:INFO:   
+2018-06-30 09:44:13,961:INFO: O 
+2018-06-30 09:44:15,332:INFO: 521 Hoang Van Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:44:15,332:INFO: O   O     O   O     O   O   O     O    
+2018-06-30 09:44:41,400:INFO: Initializing tf session
+2018-06-30 09:44:41,533:INFO: Reloading the latest trained model...
+2018-06-30 09:44:41,533:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:44:41,613:INFO: Testing model over test set
+2018-06-30 09:44:45,881:INFO: acc 98.85 - f1 94.22
+2018-06-30 09:44:45,881:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:44:53,226:INFO: 521 Hoang Van Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:44:53,226:INFO: O   O     O   O     O   O   O     O    
+2018-06-30 09:45:00,795:INFO: Initializing tf session
+2018-06-30 09:45:00,925:INFO: Reloading the latest trained model...
+2018-06-30 09:45:00,925:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:45:01,003:INFO: Testing model over test set
+2018-06-30 09:45:05,270:INFO: acc 98.85 - f1 94.22
+2018-06-30 09:45:05,270:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:45:05,272:INFO:   
+2018-06-30 09:45:05,272:INFO: O 
+2018-06-30 09:45:13,555:INFO: 521 Hoang Van 
+2018-06-30 09:45:13,556:INFO: O   O     O   
+2018-06-30 09:45:13,568:INFO: Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:45:13,569:INFO: O     O   O   O     O    
+2018-06-30 09:45:13,571:INFO: DON 
+2018-06-30 09:45:13,572:INFO: O   
+2018-06-30 09:45:13,575:INFO: 23/06/2018(Thu 
+2018-06-30 09:45:13,575:INFO: B-Date         
+2018-06-30 09:45:13,582:INFO: 08:10 
+2018-06-30 09:45:13,582:INFO: O     
+2018-06-30 09:45:13,585:INFO: Temakionigiri 
+2018-06-30 09:45:13,586:INFO: O             
+2018-06-30 09:45:13,589:INFO: 16.000 
+2018-06-30 09:45:13,589:INFO: O      
+2018-06-30 09:45:13,591:INFO: 16,000* 
+2018-06-30 09:45:13,592:INFO: O       
+2018-06-30 09:45:13,594:INFO: tinh: 
+2018-06-30 09:45:13,594:INFO: O     
+2018-06-30 09:45:13,602:INFO: cong: 
+2018-06-30 09:45:13,602:INFO: O     
+2018-06-30 09:45:13,606:INFO: 16,000   
+2018-06-30 09:45:13,606:INFO: B-Amount 
+2018-06-30 09:45:13,608:INFO: iue 
+2018-06-30 09:45:13,609:INFO: O   
+2018-06-30 09:45:13,614:INFO: So don:2-69318 Thu ngan:120013 
+2018-06-30 09:45:13,614:INFO: O  O           O   O           
+2018-06-30 09:45:13,627:INFO: khach nhu cau xuat hca don do, 
+2018-06-30 09:45:13,627:INFO: O     O   O   O    O   O   O   
+2018-06-30 09:45:13,631:INFO: vien toi 
+2018-06-30 09:45:13,631:INFO: O    O   
+2018-06-30 09:45:13,633:INFO: T mua 
+2018-06-30 09:45:13,633:INFO: O O   
+2018-06-30 09:45:13,645:INFO: Thoi xuat hoa don do la 7 ngay. 
+2018-06-30 09:45:13,645:INFO: O    O    O   O   O  O  O O     
+2018-06-30 09:45:13,650:INFO: gia1 thue VAT 
+2018-06-30 09:45:13,650:INFO: O    O    O   
+2018-06-30 09:45:13,654:INFO: pham thue 
+2018-06-30 09:45:13,654:INFO: O    O    
+2018-06-30 09:45:13,656:INFO: uu 
+2018-06-30 09:45:13,656:INFO: O  
+2018-06-30 09:45:13,659:INFO: chuong 
+2018-06-30 09:45:13,659:INFO: O      
+2018-06-30 09:45:13,667:INFO: Cam on ban da pham 
+2018-06-30 09:45:13,667:INFO: O   O  O   O  O    
+2018-06-30 09:45:19,975:INFO: Total 2000     
+2018-06-30 09:45:19,975:INFO: O     B-Amount 
+2018-06-30 09:45:44,535:INFO: 521 Hoang Van 
+2018-06-30 09:45:44,536:INFO: O   O     O   
+2018-06-30 09:45:44,544:INFO: Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:45:44,545:INFO: O     O   O   O     O    
+2018-06-30 09:45:44,548:INFO: DON 
+2018-06-30 09:45:44,548:INFO: O   
+2018-06-30 09:45:44,551:INFO: 23/06/2018(Thu 
+2018-06-30 09:45:44,551:INFO: B-Date         
+2018-06-30 09:45:44,554:INFO: 08:10 
+2018-06-30 09:45:44,554:INFO: O     
+2018-06-30 09:45:44,557:INFO: Temakionigiri 
+2018-06-30 09:45:44,557:INFO: O             
+2018-06-30 09:45:44,559:INFO: 16.000 
+2018-06-30 09:45:44,559:INFO: O      
+2018-06-30 09:45:44,565:INFO: 16,000* 
+2018-06-30 09:45:44,565:INFO: O       
+2018-06-30 09:45:44,568:INFO: tinh: 
+2018-06-30 09:45:44,568:INFO: O     
+2018-06-30 09:45:44,571:INFO: cong: 
+2018-06-30 09:45:44,571:INFO: O     
+2018-06-30 09:45:44,574:INFO: 16,000   
+2018-06-30 09:45:44,574:INFO: B-Amount 
+2018-06-30 09:45:44,577:INFO: iue 
+2018-06-30 09:45:44,577:INFO: O   
+2018-06-30 09:45:44,582:INFO: So don:2-69318 Thu ngan:120013 
+2018-06-30 09:45:44,582:INFO: O  O           O   O           
+2018-06-30 09:45:44,591:INFO: khach nhu cau xuat hca don do, 
+2018-06-30 09:45:44,591:INFO: O     O   O   O    O   O   O   
+2018-06-30 09:45:44,596:INFO: vien toi 
+2018-06-30 09:45:44,597:INFO: O    O   
+2018-06-30 09:45:44,601:INFO: T mua 
+2018-06-30 09:45:44,601:INFO: O O   
+2018-06-30 09:45:44,612:INFO: Thoi xuat hoa don do la 7 ngay. 
+2018-06-30 09:45:44,612:INFO: O    O    O   O   O  O  O O     
+2018-06-30 09:45:44,615:INFO: gia1 thue VAT 
+2018-06-30 09:45:44,616:INFO: O    O    O   
+2018-06-30 09:45:44,619:INFO: pham thue 
+2018-06-30 09:45:44,619:INFO: O    O    
+2018-06-30 09:45:44,621:INFO: uu 
+2018-06-30 09:45:44,621:INFO: O  
+2018-06-30 09:45:44,623:INFO: chuong 
+2018-06-30 09:45:44,623:INFO: O      
+2018-06-30 09:45:44,630:INFO: Cam on ban da pham 
+2018-06-30 09:45:44,630:INFO: O   O  O   O  O    
+2018-06-30 09:45:47,557:INFO:   
+2018-06-30 09:45:47,558:INFO: O 
+2018-06-30 09:46:15,577:INFO: CIRCLE     K          VIETNAM    
+2018-06-30 09:46:15,578:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 09:46:15,596:INFO: 124       Pho       Quang.    W.9.      Phu       Nhuan.D.  HCM       
+2018-06-30 09:46:15,596:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 09:46:15,603:INFO: Receipt No: 088 02 20180628 0314 
+2018-06-30 09:46:15,603:INFO: O       O   O   O  O        O    
+2018-06-30 09:46:15,609:INFO: Date: n      2018   06:12 PM 
+2018-06-30 09:46:15,609:INFO: O     B-Date I-Date O     O  
+2018-06-30 09:46:15,614:INFO: Jun 28, 
+2018-06-30 09:46:15,614:INFO: O   O   
+2018-06-30 09:46:15,620:INFO: Cashier: 5473-Diem Tan Thi Le 
+2018-06-30 09:46:15,620:INFO: O        O         O   O   O  
+2018-06-30 09:46:15,623:INFO: Description: 
+2018-06-30 09:46:15,623:INFO: O            
+2018-06-30 09:46:15,629:INFO: 1 NESTEA Tea LemON Small 120z*1CP 7,000 
+2018-06-30 09:46:15,630:INFO: O O      O   O     O     O        O     
+2018-06-30 09:46:15,639:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 09:46:15,639:INFO: O O       O    O         B-Amount 
+2018-06-30 09:46:15,642:INFO: CASH 
+2018-06-30 09:46:15,642:INFO: O    
+2018-06-30 09:46:15,644:INFO: 7,000    
+2018-06-30 09:46:15,644:INFO: B-Amount 
+2018-06-30 09:46:15,646:INFO: CHANGE 
+2018-06-30 09:46:15,646:INFO: O      
+2018-06-30 09:46:32,649:INFO: 521 Hoang Van Hoang Van Thu Q.Tan Binh 
+2018-06-30 09:46:32,649:INFO: O   O     O   O     O   O   O     O    
+2018-06-30 09:47:35,200:INFO: Initializing tf session
+2018-06-30 09:47:35,329:INFO: Reloading the latest trained model...
+2018-06-30 09:47:35,329:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:47:35,519:INFO: CIRCLE K VIETNAM124 Pho Quang. W.9. Phu Nhuan.D. HCMReceipt No: 088 02 20180628 0314Date: n 2018 06:12 PMJun 28,Cashier: 5473-Diem Tan Thi LeDescription:1 NESTEA Tea LemON Small 120z*1CP 7,0001 Item(s) (VAT included) 7,000CASH7,000CHANGE 
+2018-06-30 09:47:35,519:INFO: O      O O          O   O      O    O   O        O          O   O   O  O        O         O O    O     O     O           O         O   O   O               O      O   O     O     O        O      O       O    O         O                    
+2018-06-30 09:48:13,422:INFO: Initializing tf session
+2018-06-30 09:48:13,552:INFO: Reloading the latest trained model...
+2018-06-30 09:48:13,552:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:48:13,752:INFO: CIRCLE K VIETNAM
+124 Pho Quang. W.9. Phu Nhuan.D. HCM
+Receipt No: 088 02 20180628 0314
+Date: n 2018 06:12 PM
+Jun 28,
+Cashier: 5473-Diem Tan Thi Le
+Description:
+1 NESTEA Tea LemON Small 120z*1CP 7,000
+1 Item(s) (VAT included) 7,000
+CASH
+7,000
+CHANGE 
+2018-06-30 09:48:13,752:INFO: O      O O           O   O      O    O   O        O           O   O   O  O        O          O O    O     O      O            O         O   O   O                 O      O   O     O     O        O       O       O    O         O                       
+2018-06-30 09:48:46,768:INFO: Initializing tf session
+2018-06-30 09:48:46,904:INFO: Reloading the latest trained model...
+2018-06-30 09:48:46,904:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:48:47,109:INFO: CIRCLE K VIETNAM
+124 Pho Quang. W.9. Phu Nhuan.D. HCM
+Receipt No: 088 02 20180628 0314
+Date: n 2018 06:12 PM
+Jun 28,
+Cashier: 5473-Diem Tan Thi Le
+Description:
+1 NESTEA Tea LemON Small 120z*1CP 7,000
+1 Item(s) (VAT included) 7,000
+CASH
+7,000
+CHANGE 
+2018-06-30 09:48:47,109:INFO: O      O O           O   O      O    O   O        O           O   O   O  O        O          O O    O     O      O            O         O   O   O                 O      O   O     O     O        O       O       O    O         O                       
+2018-06-30 09:49:11,079:INFO: Initializing tf session
+2018-06-30 09:49:11,212:INFO: Reloading the latest trained model...
+2018-06-30 09:49:11,213:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:49:11,292:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:49:12,316:INFO: CIRCLE     K          VIETNAM    
+2018-06-30 09:49:12,316:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 09:49:12,322:INFO: 124       Pho       Quang.    W.9.      Phu       Nhuan.D.  HCM       
+2018-06-30 09:49:12,322:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 09:49:12,327:INFO: Receipt No: 088 02 20180628 0314 
+2018-06-30 09:49:12,327:INFO: O       O   O   O  O        O    
+2018-06-30 09:49:12,334:INFO: Date: n      2018   06:12 PM 
+2018-06-30 09:49:12,334:INFO: O     B-Date I-Date O     O  
+2018-06-30 09:49:12,341:INFO: Jun 28, 
+2018-06-30 09:49:12,341:INFO: O   O   
+2018-06-30 09:49:12,348:INFO: Cashier: 5473-Diem Tan Thi Le 
+2018-06-30 09:49:12,348:INFO: O        O         O   O   O  
+2018-06-30 09:49:12,351:INFO: Description: 
+2018-06-30 09:49:12,351:INFO: O            
+2018-06-30 09:49:12,363:INFO: 1 NESTEA Tea LemON Small 120z*1CP 7,000 
+2018-06-30 09:49:12,363:INFO: O O      O   O     O     O        O     
+2018-06-30 09:49:12,370:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 09:49:12,370:INFO: O O       O    O         B-Amount 
+2018-06-30 09:49:12,372:INFO: CASH 
+2018-06-30 09:49:12,372:INFO: O    
+2018-06-30 09:49:12,374:INFO: 7,000    
+2018-06-30 09:49:12,374:INFO: B-Amount 
+2018-06-30 09:49:12,377:INFO: CHANGE 
+2018-06-30 09:49:12,377:INFO: O      
+2018-06-30 09:49:14,433:INFO:   
+2018-06-30 09:49:14,433:INFO: O 
+2018-06-30 09:49:38,334:INFO: Initializing tf session
+2018-06-30 09:49:38,464:INFO: Reloading the latest trained model...
+2018-06-30 09:49:38,464:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:49:38,543:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:49:39,431:INFO: CIRCLE     K          VIETNAM    
+2018-06-30 09:49:39,431:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 09:49:39,437:INFO: 124       Pho       Quang.    W.9.      Phu       Nhuan.D.  HCM       
+2018-06-30 09:49:39,437:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 09:49:39,442:INFO: Receipt No: 088 02 20180628 0314 
+2018-06-30 09:49:39,442:INFO: O       O   O   O  O        O    
+2018-06-30 09:49:39,450:INFO: Date: n      2018   06:12 PM 
+2018-06-30 09:49:39,450:INFO: O     B-Date I-Date O     O  
+2018-06-30 09:49:39,456:INFO: Jun 28, 
+2018-06-30 09:49:39,456:INFO: O   O   
+2018-06-30 09:49:39,460:INFO: Cashier: 5473-Diem Tan Thi Le 
+2018-06-30 09:49:39,461:INFO: O        O         O   O   O  
+2018-06-30 09:49:39,467:INFO: Description: 
+2018-06-30 09:49:39,467:INFO: O            
+2018-06-30 09:49:39,474:INFO: 1 NESTEA Tea LemON Small 120z*1CP 7,000 
+2018-06-30 09:49:39,474:INFO: O O      O   O     O     O        O     
+2018-06-30 09:49:39,479:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 09:49:39,479:INFO: O O       O    O         B-Amount 
+2018-06-30 09:49:39,485:INFO: CASH 
+2018-06-30 09:49:39,485:INFO: O    
+2018-06-30 09:49:39,487:INFO: 7,000    
+2018-06-30 09:49:39,487:INFO: B-Amount 
+2018-06-30 09:49:39,489:INFO: CHANGE 
+2018-06-30 09:49:39,489:INFO: O      
+2018-06-30 09:49:41,076:INFO:   
+2018-06-30 09:49:41,076:INFO: O 
+2018-06-30 09:51:10,628:INFO: [A 
+2018-06-30 09:51:10,628:INFO: O   
+2018-06-30 09:51:17,950:INFO: Initializing tf session
+2018-06-30 09:51:18,094:INFO: Reloading the latest trained model...
+2018-06-30 09:51:18,094:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:51:18,180:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 09:51:19,299:INFO: ['B-Merchant', 'I-Merchant', 'I-Merchant']
+2018-06-30 09:51:19,299:INFO: CIRCLE     K          VIETNAM    
+2018-06-30 09:51:19,300:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 09:51:19,305:INFO: ['B-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address']
+2018-06-30 09:51:19,305:INFO: 124       Pho       Quang.    W.9.      Phu       Nhuan.D.  HCM       
+2018-06-30 09:51:19,305:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 09:51:19,310:INFO: ['O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 09:51:19,310:INFO: Receipt No: 088 02 20180628 0314 
+2018-06-30 09:51:19,310:INFO: O       O   O   O  O        O    
+2018-06-30 09:51:19,318:INFO: ['O', 'B-Date', 'I-Date', 'O', 'O']
+2018-06-30 09:51:19,318:INFO: Date: n      2018   06:12 PM 
+2018-06-30 09:51:19,318:INFO: O     B-Date I-Date O     O  
+2018-06-30 09:51:19,321:INFO: ['O', 'O']
+2018-06-30 09:51:19,321:INFO: Jun 28, 
+2018-06-30 09:51:19,321:INFO: O   O   
+2018-06-30 09:51:19,329:INFO: ['O', 'O', 'O', 'O', 'O']
+2018-06-30 09:51:19,329:INFO: Cashier: 5473-Diem Tan Thi Le 
+2018-06-30 09:51:19,329:INFO: O        O         O   O   O  
+2018-06-30 09:51:19,334:INFO: ['O']
+2018-06-30 09:51:19,334:INFO: Description: 
+2018-06-30 09:51:19,334:INFO: O            
+2018-06-30 09:51:19,343:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 09:51:19,343:INFO: 1 NESTEA Tea LemON Small 120z*1CP 7,000 
+2018-06-30 09:51:19,343:INFO: O O      O   O     O     O        O     
+2018-06-30 09:51:19,347:INFO: ['O', 'O', 'O', 'O', 'B-Amount']
+2018-06-30 09:51:19,348:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 09:51:19,348:INFO: O O       O    O         B-Amount 
+2018-06-30 09:51:19,350:INFO: ['O']
+2018-06-30 09:51:19,350:INFO: CASH 
+2018-06-30 09:51:19,350:INFO: O    
+2018-06-30 09:51:19,352:INFO: ['B-Amount']
+2018-06-30 09:51:19,352:INFO: 7,000    
+2018-06-30 09:51:19,352:INFO: B-Amount 
+2018-06-30 09:51:19,354:INFO: ['O']
+2018-06-30 09:51:19,354:INFO: CHANGE 
+2018-06-30 09:51:19,354:INFO: O      
+2018-06-30 09:51:20,524:INFO: ['O']
+2018-06-30 09:51:20,524:INFO:   
+2018-06-30 09:51:20,524:INFO: O 
+2018-06-30 09:59:02,406:INFO: Initializing tf session
+2018-06-30 09:59:02,537:INFO: Reloading the latest trained model...
+2018-06-30 09:59:02,537:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 09:59:02,616:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 10:07:42,139:INFO: Initializing tf session
+2018-06-30 10:07:42,268:INFO: Reloading the latest trained model...
+2018-06-30 10:07:42,268:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:07:42,346:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 10:07:52,340:INFO: ['B-Merchant', 'I-Merchant', 'I-Merchant']
+2018-06-30 10:07:52,346:INFO: ['B-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address']
+2018-06-30 10:07:52,351:INFO: ['O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:07:52,356:INFO: ['O', 'B-Date', 'I-Date', 'O', 'O']
+2018-06-30 10:07:52,360:INFO: ['O', 'O']
+2018-06-30 10:07:52,370:INFO: ['O', 'O', 'O', 'O', 'O']
+2018-06-30 10:07:52,373:INFO: ['O']
+2018-06-30 10:07:52,382:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:07:52,389:INFO: ['O', 'O', 'O', 'O', 'B-Amount']
+2018-06-30 10:07:52,391:INFO: ['O']
+2018-06-30 10:07:52,394:INFO: ['B-Amount']
+2018-06-30 10:07:52,396:INFO: ['O']
+2018-06-30 10:07:57,914:INFO: ['O']
+2018-06-30 10:07:58,746:INFO: ['O']
+2018-06-30 10:07:59,202:INFO: ['O']
+2018-06-30 10:07:59,451:INFO: ['O']
+2018-06-30 10:07:59,636:INFO: ['O']
+2018-06-30 10:07:59,819:INFO: ['O']
+2018-06-30 10:08:00,227:INFO: ['O']
+2018-06-30 10:08:00,997:INFO: ['O']
+2018-06-30 10:08:01,917:INFO: ['O']
+2018-06-30 10:08:03,246:INFO: ['O']
+2018-06-30 10:09:23,199:INFO: ['O']
+2018-06-30 10:09:23,355:INFO: ['O']
+2018-06-30 10:09:23,471:INFO: ['O']
+2018-06-30 10:09:23,623:INFO: ['O']
+2018-06-30 10:09:23,742:INFO: ['O']
+2018-06-30 10:09:31,626:INFO: Initializing tf session
+2018-06-30 10:09:31,760:INFO: Reloading the latest trained model...
+2018-06-30 10:09:31,760:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:09:31,838:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 10:09:31,953:INFO: ['O']
+2018-06-30 10:09:31,954:INFO: ['O']
+2018-06-30 10:09:33,825:INFO: ['O']
+2018-06-30 10:09:35,087:INFO: ['B-Merchant', 'I-Merchant', 'I-Merchant']
+2018-06-30 10:09:35,101:INFO: ['B-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address', 'I-Address']
+2018-06-30 10:09:35,112:INFO: ['O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:09:35,120:INFO: ['O', 'B-Date', 'I-Date', 'O', 'O']
+2018-06-30 10:09:35,123:INFO: ['O', 'O']
+2018-06-30 10:09:35,131:INFO: ['O', 'O', 'O', 'O', 'O']
+2018-06-30 10:09:35,133:INFO: ['O']
+2018-06-30 10:09:35,139:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:09:35,144:INFO: ['O', 'O', 'O', 'O', 'B-Amount']
+2018-06-30 10:09:35,147:INFO: ['O']
+2018-06-30 10:09:35,150:INFO: ['B-Amount']
+2018-06-30 10:09:35,152:INFO: ['O']
+2018-06-30 10:11:05,428:INFO: Initializing tf session
+2018-06-30 10:11:05,558:INFO: Reloading the latest trained model...
+2018-06-30 10:11:05,558:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:11:05,756:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:11:21,064:INFO: Initializing tf session
+2018-06-30 10:11:21,195:INFO: Reloading the latest trained model...
+2018-06-30 10:11:21,195:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:11:21,387:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:13:41,090:INFO: Initializing tf session
+2018-06-30 10:13:41,221:INFO: Reloading the latest trained model...
+2018-06-30 10:13:41,221:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:13:41,415:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:16:02,886:INFO: Initializing tf session
+2018-06-30 10:16:03,021:INFO: Reloading the latest trained model...
+2018-06-30 10:16:03,021:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:16:03,232:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:16:30,890:INFO: Initializing tf session
+2018-06-30 10:16:31,018:INFO: Reloading the latest trained model...
+2018-06-30 10:16:31,018:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:16:31,226:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:17:03,377:INFO: Initializing tf session
+2018-06-30 10:17:03,507:INFO: Reloading the latest trained model...
+2018-06-30 10:17:03,507:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:17:03,710:INFO: ['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:18:02,747:INFO: Initializing tf session
+2018-06-30 10:18:02,878:INFO: Reloading the latest trained model...
+2018-06-30 10:18:02,878:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:18:03,082:INFO: ['O', 'I-Merchant', 'I-Merchant', 'I-Merchant', 'I-Merchant', 'I-Merchant', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+2018-06-30 10:19:04,492:INFO: Initializing tf session
+2018-06-30 10:19:04,626:INFO: Reloading the latest trained model...
+2018-06-30 10:19:04,627:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:19:04,706:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-06-30 10:19:06,996:INFO: CIRCLE     K          VIETNAM    
+2018-06-30 10:19:06,996:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 10:19:16,803:INFO: 124       Pho       Quang.    W.9.      Phu       Nhuan.D.  HCM       
+2018-06-30 10:19:16,803:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 10:19:18,545:INFO:   
+2018-06-30 10:19:18,545:INFO: O 
+2018-06-30 10:19:32,691:INFO: Date: n      2018   06:12 PM 
+2018-06-30 10:19:32,692:INFO: O     B-Date I-Date O     O  
+2018-06-30 10:19:53,841:INFO: 1 NESTEA Tea LemON Small 120z*1CP 7,000 
+2018-06-30 10:19:53,841:INFO: O O      O   O     O     O        O     
+2018-06-30 10:19:53,850:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 10:19:53,850:INFO: O O       O    O         B-Amount 
+2018-06-30 10:19:56,576:INFO:   
+2018-06-30 10:19:56,576:INFO: O 
+2018-06-30 10:19:57,958:INFO:   
+2018-06-30 10:19:57,959:INFO: O 
+2018-06-30 10:21:10,194:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 10:21:10,194:INFO: O O       O    O         B-Amount 
+2018-06-30 10:21:18,072:INFO: CIRCLE     K          VIETNAM    
+2018-06-30 10:21:18,072:INFO: B-Merchant I-Merchant I-Merchant 
+2018-06-30 10:21:18,085:INFO: 124       Pho       Quang.    W.9.      Phu       Nhuan.D.  HCM       
+2018-06-30 10:21:18,085:INFO: B-Address I-Address I-Address I-Address I-Address I-Address I-Address 
+2018-06-30 10:21:18,093:INFO: Receipt No: 088 02 20180628 0314 
+2018-06-30 10:21:18,093:INFO: O       O   O   O  O        O    
+2018-06-30 10:21:18,101:INFO: Date: n      2018   06:12 PM 
+2018-06-30 10:21:18,101:INFO: O     B-Date I-Date O     O  
+2018-06-30 10:21:18,104:INFO: Jun 28, 
+2018-06-30 10:21:18,104:INFO: O   O   
+2018-06-30 10:21:18,110:INFO: Cashier: 5473-Diem Tan Thi Le 
+2018-06-30 10:21:18,110:INFO: O        O         O   O   O  
+2018-06-30 10:21:18,112:INFO: Description: 
+2018-06-30 10:21:18,112:INFO: O            
+2018-06-30 10:21:18,122:INFO: 1 NESTEA Tea LemON Small 120z*1CP 7,000 
+2018-06-30 10:21:18,122:INFO: O O      O   O     O     O        O     
+2018-06-30 10:21:18,126:INFO: 1 Item(s) (VAT included) 7,000    
+2018-06-30 10:21:18,127:INFO: O O       O    O         B-Amount 
+2018-06-30 10:21:18,129:INFO: CASH 
+2018-06-30 10:21:18,129:INFO: O    
+2018-06-30 10:21:18,131:INFO: 7,000    
+2018-06-30 10:21:18,131:INFO: B-Amount 
+2018-06-30 10:21:18,134:INFO: CHANGE 
+2018-06-30 10:21:18,134:INFO: O      
+2018-06-30 10:21:25,472:INFO: O%           7000 
+2018-06-30 10:21:25,473:INFO: O  O O O O O O    
+2018-06-30 10:21:30,296:INFO: 7000 
+2018-06-30 10:21:30,296:INFO: O    
+2018-06-30 10:21:33,516:INFO: 7,000    
+2018-06-30 10:21:33,516:INFO: B-Amount 
+2018-06-30 10:21:40,577:INFO: 8,000    
+2018-06-30 10:21:40,577:INFO: B-Amount 
+2018-06-30 10:21:44,119:INFO: 9,000    
+2018-06-30 10:21:44,119:INFO: B-Amount 
+2018-06-30 10:21:46,512:INFO: 20,000   
+2018-06-30 10:21:46,512:INFO: B-Amount 
+2018-06-30 10:22:19,932:INFO: 8,888 
+2018-06-30 10:22:19,932:INFO: O     
+2018-06-30 10:22:23,463:INFO: 8,8000 
+2018-06-30 10:22:23,463:INFO: O      
+2018-06-30 10:22:27,492:INFO: 8,800 
+2018-06-30 10:22:27,492:INFO: O     
+2018-06-30 10:22:29,523:INFO: 8,000    
+2018-06-30 10:22:29,524:INFO: B-Amount 
+2018-06-30 10:22:32,710:INFO: 7,700 
+2018-06-30 10:22:32,710:INFO: O     
+2018-06-30 10:22:39,169:INFO: 7,500 
+2018-06-30 10:22:39,169:INFO: O     
+2018-06-30 10:22:42,605:INFO: 8000 
+2018-06-30 10:22:42,605:INFO: O    
+2018-06-30 10:22:48,826:INFO: 7000 
+2018-06-30 10:22:48,827:INFO: O    
+2018-06-30 10:22:53,291:INFO: 7000 vnd 
+2018-06-30 10:22:53,291:INFO: O    O   
+2018-06-30 10:22:57,055:INFO: 7000 VND 
+2018-06-30 10:22:57,055:INFO: O    O   
+2018-06-30 10:23:01,677:INFO: 7,000    VND      
+2018-06-30 10:23:01,677:INFO: B-Amount I-Amount 
+2018-06-30 10:23:12,157:INFO: 20,0000 VND 
+2018-06-30 10:23:12,158:INFO: O       O   
+2018-06-30 10:23:22,619:INFO: 20,000,000 VND 
+2018-06-30 10:23:22,619:INFO: O          O   
+2018-06-30 10:23:29,420:INFO: 7,000    VND      
+2018-06-30 10:23:29,421:INFO: B-Amount I-Amount 
+2018-06-30 10:26:48,495:INFO: Initializing tf session
+2018-06-30 10:26:48,624:INFO: Reloading the latest trained model...
+2018-06-30 10:26:48,624:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:29:18,286:INFO: Initializing tf session
+2018-06-30 10:29:18,415:INFO: Reloading the latest trained model...
+2018-06-30 10:29:18,415:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:31:06,900:INFO: Initializing tf session
+2018-06-30 10:31:07,034:INFO: Reloading the latest trained model...
+2018-06-30 10:31:07,034:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:36:50,138:INFO: Initializing tf session
+2018-06-30 10:36:50,265:INFO: Reloading the latest trained model...
+2018-06-30 10:36:50,265:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:38:44,247:INFO: Initializing tf session
+2018-06-30 10:38:44,381:INFO: Reloading the latest trained model...
+2018-06-30 10:38:44,381:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:39:55,346:INFO: Initializing tf session
+2018-06-30 10:39:55,475:INFO: Reloading the latest trained model...
+2018-06-30 10:39:55,476:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:42:06,839:INFO: Initializing tf session
+2018-06-30 10:42:06,969:INFO: Reloading the latest trained model...
+2018-06-30 10:42:06,969:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:52:58,738:INFO: Initializing tf session
+2018-06-30 10:52:58,869:INFO: Reloading the latest trained model...
+2018-06-30 10:52:58,869:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:54:43,355:INFO: Initializing tf session
+2018-06-30 10:54:43,489:INFO: Reloading the latest trained model...
+2018-06-30 10:54:43,489:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:56:42,568:INFO: Initializing tf session
+2018-06-30 10:56:42,700:INFO: Reloading the latest trained model...
+2018-06-30 10:56:42,701:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:57:10,211:INFO: Initializing tf session
+2018-06-30 10:57:10,338:INFO: Reloading the latest trained model...
+2018-06-30 10:57:10,338:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 10:57:42,389:INFO: Initializing tf session
+2018-06-30 10:57:42,517:INFO: Reloading the latest trained model...
+2018-06-30 10:57:42,517:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 11:02:16,958:INFO: Initializing tf session
+2018-06-30 11:02:17,099:INFO: Reloading the latest trained model...
+2018-06-30 11:02:17,099:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 11:02:30,000:INFO: Initializing tf session
+2018-06-30 11:02:30,131:INFO: Reloading the latest trained model...
+2018-06-30 11:02:30,131:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 11:08:27,918:INFO: Initializing tf session
+2018-06-30 11:08:28,050:INFO: Reloading the latest trained model...
+2018-06-30 11:08:28,050:INFO: Restoring parameters from results/test/model.weights/
+2018-06-30 11:21:21,620:INFO: Initializing tf session
+2018-06-30 11:21:21,749:INFO: Reloading the latest trained model...
+2018-06-30 11:21:21,749:INFO: Restoring parameters from results/test/model.weights/

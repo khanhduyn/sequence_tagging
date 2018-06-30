@@ -1,0 +1,10194 @@
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..han.D. I-Address
+HCM I-Address
+
+088 O
+02 O
+20180628 O
+0198 O
+
+Receipt O
+No O
+: O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:38 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+
+1 O
+1 O
+DC//VINH O
+HAO O
+Carbonated O
+MW O
+500ml O
+7,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+7,000 B-Amount
+
+7,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+V.9, I-Address
+Phu I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+02 O
+20180628 O
+0351 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+08:04 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+--- O
+- O
+
+1 O
+DC//DASANI O
+Bottled O
+Water O
+500ml*1 O
+5,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+5,000 B-Amount
+
+CASH O
+
+5,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+
+VNCVS O
+376 O
+376 O
+Le O
+puc O
+376 B-Address
+Duc I-Address
+Le I-Address
+DuC I-Address
+rho, I-Address
+Tho I-Address
+ward I-Address
+6 I-Address
+94 O
+
+
+31237 O
+
+Thursdayune O
+store: O
+store O
+13094 O
+POS: O
+1902 O
+002 O
+08:2 O
+:32m O
+
+
+xuc O
+xich O
+9.000 O
+VND O
+
+Total: O
+------ O
+9,000 B-Amount
+VND I-Amount
+
+vatable O
+8,82 O
+VNd O
+
+By: O
+
+9.000 B-Amount
+VND I-Amount
+
+NGOC O
+p O
+P O
+
+121063656790631237 O
+
+******** O
+* O
+* O
+* O
+* O
+* O
++ O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+
+bao O
+
+khimua O
+hang O
+So O
+cap O
+
+cua O
+hang O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W9hunhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0306 O
+
+Date: O
+[@28, O
+
+Jun O
+2018#Date*] O
+05:51 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+CK O
+CK O
+Mixed O
+Noodle O
+with O
+Egg O
+& O
+Smok O
+19,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+19,000 B-Amount
+
+CASH O
+
+19,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9, I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+20180628 O
+0296 O
+
+Receipt O
+No: O
+088 O
+02 O
+
+Date: O
+Jun B-Date
+n I-Date
+28, I-Date
+2018 I-Date
+05:39 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+wan-e O
+1 O
+
+1 O
+DC//AQUAFINA O
+Bottled O
+Water O
+500m O
+5,000 O
+
+1 O
+Item(s) O
+(VAT O
+cluded) O
+5.000 B-Amount
+
+5,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+B'smart B-Merchant
+
+BE O
+UEY O
+01010 O
+
+VNCYS O
+376 O
+Le O
+376 B-Address
+Duc I-Address
+Le I-Address
+Duc I-Address
+Tho, I-Address
+Phe I-Address
+Tho I-Address
+6 I-Address
+94 O
+94 O
+
+2 O
+2 O
+ward O
+
+Store: O
+13094 O
+
+Thursday O
+June B-Date
+POS: O
+02 O
+002 O
+RCPT: O
+07:33:27pm O
+631214 O
+
+.3 O
+
+-ONE O
+thit O
+bo O
+85 O
+6,000 O
+VND O
+
+6,000 O
+
+Vatable O
+
+VND O
+
+6,000 B-Amount
+VND I-Amount
+
+NGOC O
+DIEP O
+
+121063656790631214 O
+
+bao O
+
+don O
+
+khi O
+mua O
+
+so O
+
+cua O
+hang O
+ngay. O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+Wv.9hu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+No: O
+088 O
+02 O
+20180628 O
+0177 O
+
+Date: O
+Receipt O
+
+Jun B-Date
+28,-2018 I-Date
+12:00 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//MILO O
+Milk O
+Protomalt O
+180m*1B O
+9,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+9,000 B-Amount
+
+CASH O
+
+9,000 B-Amount
+
+CHANGE O
+
+
+0CO O
+CONG O
+[@NAM O
+
+STOP#Merchant*] O
+
+P.6 O
+Q.Tan O
+Binh O
+
+DON O
+BAN O
+HANG O
+
+20:27 O
+
+28/06/2018 B-Date
+(Thu O
+
+Xoan O
+duong O
+-9cay O
+13,000 O
+13,000* O
+
+13,000 O
+
+Tam O
+
+Tong O
+cong: O
+13,000 B-Amount
+
+-7.000 O
+
+Tien O
+thua: O
+
+===-======= O
+
+So O
+hoa O
+don:2-71780 O
+Thu O
+ngan:120010 O
+
+khach O
+Co O
+cau O
+do, O
+
+nhan O
+vien O
+
+xuat O
+
+on O
+
+giai O
+Gia O
+da O
+gom O
+VAT O
+
+pham O
+co O
+tinh O
+thue O
+
+nham O
+co O
+chuong O
+trinh O
+uu O
+dai O
+
+M' O
+
+[@MODERN O
+
+HUSTLE#Merchant*] O
+
+TABLE: O
+Copac B-Address
+Building I-Address
+
+Trans#: O
+3581 O
+#1 O
+
+Serv: O
+NHI O
+LE O
+
+06/28/2018 B-Date
+09:57:37 O
+AM O
+#Cust:1 O
+
+============ O
+
+Quan O
+Description O
+Cost O
+
+1 O
+Ca O
+Phe O
+Den O
+Da O
+A0L O
+000 O
+40 O
+
+Coders O
+Emp O
+F&B O
+( O
+8,000) O
+8.000) O
+
+Net O
+Net O
+Total: O
+29,091 O
+
+VAT: O
+2,909 B-Tax Amount
+
+TOTAL: O
+===z=========== O
+32,000 B-Amount
+
+KH O
+Truoc O
+32,000 B-Amount
+
+Change O
+
+Chales O
+
+Coderschool O
+
+
+THANK O
+
+MORDEN O
+YOU O
+HUSTLE O
+
+Password: O
+coderhustle O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+[@124 O
+Pho O
+O O
+Quang. O
+W.9.Phum O
+Nhuan.D. O
+HCM O
+
+#Address*]Receipt O
+20180628 O
+
+No: O
+088 O
+02 O
+0286 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:24 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+
+1 O
+DC//STING O
+EDRINK O
+SBR O
+Sleek O
+330m O
+12,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+12,000 B-Amount
+
+CASH O
+
+52,000 O
+
+CHANGE O
+
+40.000 O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..Ph I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+
+02 O
+20180628 O
+0348 O
+
+Date O
+: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+07:54 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description. O
+
+1 O
+CK O
+Iced O
+Vietnamese O
+Coffee O
+*1CP O
+7.,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+7,000 B-Amount
+
+CASH O
+
+7,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+n O
+e O
+05:16 O
+PM O
+
+088 O
+20180628 O
+0281 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+2 O
+CK O
+Steam O
+Bun O
+Char O
+Siu O
+1 O
+@12000 O
+24,000 O
+
+1 O
+BAO O
+NGOC O
+Bread O
+Paket O
+45g*1PK O
+7,000 O
+
+3 O
+Item(s) O
+(VAT O
+inc O
+uded) O
+31,000 B-Amount
+
+CASH O
+
+31,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0261 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+04:16 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+-- O
+-- O
+
+1 O
+DC//LATTE O
+Juice O
+Milk O
+Tea O
+345ml* O
+* O
+11,000 O
+
+
+Item(s) O
+(VAT O
+included) O
+11,000 B-Amount
+
+11,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+in O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vi O
+an O
+cong O
+dong O
+
+Cira O
+hang O
+s61: O
+
+710/4 B-Address
+Phan I-Address
+P.10 I-Address
+vap. I-Address
+
+DTcira O
+hang:0120 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+h O
+Trang O
+
+28/06/2018 B-Date
+7:15:21 O
+
+0416394 O
+Quay: O
+
+Ten O
+hang O
+S O
+D.Gia O
+T.Tien O
+
+63,360 O
+
+Lua O
+-H.Co O
+
+cong: O
+0.26 O
+63,360 B-Amount
+
+63,360 O
+
+khach O
+
+Lam O
+h O
+Hang O
+
+8 O
+8894162 O
+
+tich O
+iuy: O
+549,6 O
+
+Xin O
+vahen O
+lai O
+Quy O
+khach! O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9, I-Address
+Phu I-Address
+Nhuan.D I-Address
+. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+2018 O
+01:15 O
+PM O
+
+088 O
+02 O
+20180628 O
+0212 O
+
+Date: O
+Jun B-Date
+28, I-Date
+Thu I-Date
+
+Cashier: O
+10130-Hang O
+Tran O
+
+Descr O
+scription: O
+
+1 O
+DC//VISSAN O
+Sausage O
+Beef O
+70g*1ST O
+9,000 O
+
+CK O
+Bread O
+stick O
+*IST O
+13,000 O
+
+DC//FREZFILL O
+Milk O
+G.Tea O
+260m*1 O
+20,000 O
+
+Item(s) O
+(VAT O
+included) O
+42,000 B-Amount
+
+100,000 O
+
+CASH O
+
+58.000 O
+
+CHANGE O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9hu I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0355 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+08:14 O
+
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+CORNETTO O
+Strawberry O
+Almond O
+88g* O
+20,000 O
+
+*PRO O
+JUN_CORNETTO O
+
+1 O
+CORNETTO O
+IC O
+Vani O
+Classic O
+66g*1C O
+16,000 O
+
+*PRO O
+JUN_CORNETTO O
+
+1 O
+CORNETTO O
+IC O
+Black O
+& O
+White O
+66g* O
+16,000 O
+
+*PRO O
+JUN O
+CORNETTO O
+
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+lu'c O
+vi O
+an O
+cong O
+dong O
+
+hang O
+s01: O
+
+710/4 B-Address
+Phan I-Address
+Van I-Address
+P.10 I-Address
+Go I-Address
+
+DTcA O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DON O
+BAN O
+
+th O
+Trang O
+
+28/06/2.018 B-Date
+
+16565 O
+Quay: O
+NQ21 O
+
+Tenhang O
+S O
+D.Gia O
+T.Tien O
+
+Cai O
+Thia O
+
+32,000 O
+
+45,000 O
+13,410 O
+
+lo O
+Xanh O
+
+85,000 O
+27,710 O
+
+Gung O
+55,000 O
+1,980 O
+
+51,356 B-Amount
+
+Tong O
+
+ng O
+: O
+
+Tien O
+khach O
+
+Xin O
+hen O
+gap O
+lai O
+Quy O
+khach! O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0293 O
+
+Date: O
+Jun B-Date
+28 I-Date
+2018 I-Date
+05:35 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+DC//STING O
+EDr O
+ink O
+S.berry O
+330m* O
+12,000 O
+
+3 O
+CK O
+Iced O
+Cup O
+120z*1CP O
+@2000 O
+6,000 O
+
+1 O
+DC//7UP O
+Lemon O
+390ml*1PT O
+8,000 O
+
+5 O
+Item(s) O
+(VAT O
+included) O
+26,000 B-Amount
+
+CASH O
+
+26,000 B-Amount
+
+MININ O
+CONG O
+H O
+MINISTOP B-Merchant
+VIET O
+
+STOP O
+
+[@Hoang O
+Van O
+Van O
+Thu O
+Q.Tan O
+
+Thu O
+P.6 O
+Binh#Address*] O
+
+HANG O
+
+23/06/2018 B-Date
+(Thu O
+
+bi O
+TL027 O
+
+5,000* O
+
+5.000 O
+
+Tong O
+cong: O
+5,000 B-Amount
+
+5,000 O
+
+Thue O
+(10%): O
+
+So O
+don:2-69475 O
+Thu O
+120013 O
+
+khach O
+nhu O
+hoa O
+don O
+do, O
+
+long O
+yoi O
+vien O
+toi O
+
+mua O
+
+xuat O
+hoa O
+don O
+la O
+ngay O
+
+hich O
+Gia O
+da O
+bao O
+gom O
+thue O
+VAT O
+
+chuong O
+
+dai O
+
+in O
+
+[@THE O
+COFFEE O
+
+HOUSE#Merchant*] O
+
+249 B-Address
+Ly I-Address
+Thudng I-Address
+Kiet, I-Address
+11 I-Address
+
+Delivery: O
+1800 O
+6936 O
+
+Hotline: O
+02871087 O
+088 O
+
+www.thecoffeehouse.com O
+
+oi O
+28.06.2018 B-Date
+15.26 O
+S6H: O
+I100610284 O
+
+Hoang O
+Van O
+Vinh O
+So-2 O
+
+mon O
+SL O
+D.Gia O
+T.Tien O
+
+29000 O
+29000 O
+
+Cappuccinonong O
+
+45 O
+000 O
+
+ar O
+
+tien: O
+
+Thanh O
+
+74000 O
+
+gia: O
+
+Toan: O
+
+Tienkhach O
+dua: O
+
+126 O
+000 O
+
+74 O
+
+pham O
+da O
+thecoffeehouse O
+
+bao O
+gom O
+10% O
+
+50.000 O
+VND O
+
+www.thecoffeehouse.com O
+hoac O
+6936 O
+
+Camon O
+
+CIRCLEK B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+pho I-Address
+Quang. I-Address
+w. I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+
+No: O
+088 O
+02 O
+20180628 O
+0345 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+07:47 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+<-- O
+
+4 O
+DC//AQUAFINA O
+Bottled O
+Wate O
+@5000 O
+20,000 O
+
+4 O
+Item(s) O
+(VAT O
+included) O
+20.000 B-Amount
+
+CASH O
+
+20,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+
+VNCVS O
+376 O
+Le O
+THE O
+DuC O
+Tho O
+ward O
+94 O
+6 O
+
+376 B-Address
+Le I-Address
+DUC I-Address
+Tho, I-Address
+
+store: O
+13094 O
+POS: O
+002 O
+002 O
+05:16:58pm O
+631166 O
+
+Thursday, O
+
+LAMILISKEM O
+MU O
+VND O
+
+kemn O
+N O
+8 O
+4,000 O
+21000 O
+VND O
+
+Mi O
+xao O
+
+vatable O
+87'055 O
+vND O
+
+VND O
+
+By: O
+37,000 B-Amount
+VND I-Amount
+
+DIEP O
+P O
+
+Item O
+NGOC O
+
+121063655790631166 O
+
+bao O
+
+
+khimua O
+
+Hoa O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Q I-Address
+Quang. I-Address
+WD I-Address
+HCM I-Address
+
+Receipt O
+20180628 O
+
+No: O
+088 O
+02 O
+0170 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+11:49 O
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//CHA O
+CHEER O
+Sunseed O
+Coconut O
+4 O
+10,000 O
+
+1 O
+Ck O
+CK O
+Dump O
+ing O
+Vietnamese O
+Pyramida O
+10,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+20,000 B-Amount
+
+CASH O
+
+20,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+PhoQuang. I-Address
+W.hu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Date: O
+Receipt O
+Jun O
+2018 O
+12:05 O
+
+No: O
+088 O
+02 O
+20180628 O
+0180 O
+
+28, O
+
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+
+1 O
+DC//7UP O
+REVIVE O
+Sport O
+Drink O
+500m O
+11,000 O
+
+1 O
+DC//LIPTON O
+Black O
+Tea O
+455ml*1BT O
+10,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+21,000 B-Amount
+
+CASH O
+
+21,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+02 O
+20180628 O
+
+No: O
+088 O
+0160 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+11:35 O
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+CK O
+Iced O
+Vietnamese O
+Coffee O
+*1CP O
+7.000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+7,000 B-Amount
+
+CASH O
+
+100,000 O
+
+CHANGE O
+
+93.000 O
+
+Bsmart B-Merchant
+
+C O
+YOU O
+(4010 O
+
+VNCVS O
+376 O
+Le O
+[@376 O
+Le O
+Duc O
+Tho, O
+Ward O
+6 O
+
+DuC O
+Tho O
+94#Address*] O
+
+UC2 O
+2 O
+
+store: O
+13094 O
+POS O
+: O
+002 O
+RCPT: O
+
+Thursdayune O
+une O
+28, B-Date
+2018 I-Date
+08:39:45pm O
+
+AQUARIUS O
+NuOC O
+tang O
+uong O
+ongc O
+19,00 O
+9 O
+VND O
+
+Total: O
+Vatable O
+19,000 B-Amount
+VND I-Amount
+
+Tendered O
+By: O
+
+NGOC O
+
+DIEP O
+P O
+19,000 B-Amount
+VND I-Amount
+
+121063656790631241 O
+
+Htn O
+don O
+cap O
+
+hang O
+sau O
+ngay. O
+
+CIRCLEKVIETNAM B-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+Wan.D. I-Address
+HCM I-Address
+
+Date: O
+Receipt O
+. O
+28, B-Date
+2018 I-Date
+04:40 O
+PM O
+
+No: O
+088 O
+02 O
+20180628 O
+0267 O
+
+Jun O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+DC//O'STAR O
+POCHIP O
+Salt O
+48g*1PK O
+12.,000 O
+
+CK O
+Single O
+Raw O
+Egg*1UN O
+@3000 O
+6,000 O
+
+FOHLA O
+Banana O
+1 O
+Unit*PA O
+9,000 O
+
+Item(s) O
+(VAT O
+included) O
+27.000 B-Amount
+
+CASH O
+
+52,000 O
+
+CHANGE O
+
+25.000 O
+
+Bsmart B-Merchant
+
+$3 O
+tR O
+0 O
+
+VNCVS O
+376 O
+Le O
+Duc O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+DUC I-Address
+c I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+
+Thursday, O
+June B-Date
+28 I-Date
+08:52:38pin O
+
+9.000 O
+
+LIPTON O
+env! O
+WADD O
+
+sna O
+da O
+14'000 O
+VND O
+
+39000 B-Amount
+VND I-Amount
+
+vatable O
+35455 O
+VND O
+
+39,000 B-Amount
+VND I-Amount
+
+NGOC O
+P O
+
+121063656790631252 O
+
+bao O
+hoa O
+
+khimua O
+Hoa O
+don O
+cap O
+
+YCUahang O
+
+
+M O
+[@HUSTLE O
+
+MODERN#Merchant*] O
+
+Copac B-Address
+Building I-Address
+
+TABLE O
+Apac O
+ABLE: O
+#31 O
+
+Trans#: O
+Trans#: O
+3629 O
+
+Serv: O
+VUONG O
+MINH O
+M O
+KHA O
+
+06/29/2018 B-Date
+810:01:28 O
+AM O
+etsaa O
+#Cust:1 O
+
+============== O
+
+Quan O
+Description O
+LOST O
+
+Cost O
+
+FEN-CHL-nude-39 O
+500,000 O
+
+1 O
+FEN-CHL-black-36 O
+500,000 O
+
+Fenimi O
+sale O
+off O
+( O
+500.000 O
+
+Net O
+Total: O
+VAT: O
+90,909 O
+
+409,091 O
+
+TOTAL: O
+500,000 B-Amount
+
+CASH O
+
+0,000 O
+
+Change: O
+
+THANK O
+YOU O
+! O
+
+Password: O
+coderhustle O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..h I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0330 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:51 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+TIPLON. O
+
+-m- O
+-- O
+
+1 O
+DC//VINH O
+HAO O
+Mineral O
+Water O
+500ml O
+6,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+6,000 B-Amount
+
+CASH O
+
+6,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+YUR O
+OUR O
+
+VNCVS O
+376 O
+376 O
+LE O
+DuC O
+ho O
+Tho O
+
+376 B-Address
+Le I-Address
+DUC I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+
+store: O
+13094 O
+pOS O
+: O
+1002 O
+002 O
+RCPT: O
+
+Thursday, O
+rsday, B-Date
+june I-Date
+28 I-Date
+, O
+08:2 O
+3:35pm O
+
+trang O
+28,000 O
+VND O
+
+Total: O
+28,000 B-Amount
+VND I-Amount
+
+Vatable O
+25,455 O
+VND O
+
+B: O
+
+28,000 B-Amount
+VND I-Amount
+
+NGOC O
+DIEP O
+P O
+
+121063656790631233 O
+
+thong O
+bao O
+xuat O
+
+khi O
+mua O
+hang. O
+don O
+cung O
+cap O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang, I-Address
+w.9.phu I-Address
+NhUAN.D I-Address
+HCM I-Address
+
+Receipt O
+04:46 O
+PM O
+
+No: O
+088 O
+02 O
+20180628 O
+0270 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+2 O
+DUREX O
+Condom O
+Close O
+Fit O
+3 O
+@45000 O
+90,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+90,000 B-Amount
+
+CASH O
+
+90,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+V.9. I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0321 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:31 O
+PM O
+
+Cashier O
+: O
+5473-Diem O
+Tran O
+
+Thi O
+Le O
+
+Description: O
+
+
+1 O
+COOL O
+AIReGum O
+Menthol O
+58.4g*1JA O
+19,000 O
+
+1 O
+DC//DR.THANH O
+Cooling O
+Tea O
+500m* O
+12,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+31,000 B-Amount
+
+CASH O
+
+101,000 O
+
+CHANGE O
+
+70.000 O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+WyPhu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0273 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:00 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+2 O
+DC//RED O
+BULL O
+Energy O
+Drin O
+@11000 O
+22,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+22,000 B-Amount
+
+CASH O
+
+22,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9, I-Address
+Phu I-Address
+Nhuan.D.HCm I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0323 O
+
+Date: O
+Jun B-Date
+28, I-Date
+Tran O
+Thi O
+Le O
+
+2018 O
+06:34 O
+PM O
+
+Cashier: O
+5473-Diem O
+
+Description: O
+
+1 O
+DC//RED O
+BULL O
+Energy O
+Drink O
+250ml O
+250m O
+11,000 O
+
+1 O
+CRAVEN O
+A O
+Classic O
+20s*1PK O
+23,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+34,000 B-Amount
+
+200,000 O
+
+CASH O
+
+166.000 O
+
+CHANGE O
+
+00 O
+CONG B-Merchant
+TY I-Merchant
+TNHH I-Merchant
+MINISTOP I-Merchant
+VIET I-Merchant
+NAM I-Merchant
+
+STOP2 O
+21 O
+
+[@521 O
+Hoang O
+
+P.6 O
+Q.Tan O
+Binh#Address*] O
+
+23/06/2018 B-Date
+(Thu O
+
+07:56 O
+
+Mai O
+Chanh O
+Day O
+17,000 O
+17,000* O
+
+xa O
+xiu O
+16.000 O
+
+33,000 O
+
+33,000 B-Amount
+
+Tong O
+cong: O
+
+35,000 O
+
+Tien O
+
+-2,000 O
+
+thua: O
+
+00 O
+
+Thue O
+(10%): O
+
+hoa O
+don:2-69417 O
+Thu O
+ngan:120013 O
+
+khach O
+nhu O
+cau O
+don O
+do, O
+
+vien O
+chung O
+toi O
+
+khach O
+mua O
+hang. O
+
+gian O
+xuat O
+hoa O
+don O
+do O
+la O
+ngay O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+088 O
+11:20 O
+AM O
+
+No: O
+02 O
+20180628 O
+0152 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+CK O
+Steam O
+Bun O
+Ca O
+*1UN O
+5,000 O
+
+CK O
+Smoke O
+Sausage O
+62g*1UN O
+@15000 O
+30,000 O
+
+CK O
+Froster O
+160z*1CP O
+15,000 O
+
+Item(s) O
+(VAT O
+included) O
+50,000 B-Amount
+
+50,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+NHUan.D.HCM I-Address
+
+088 O
+02 O
+20180628 O
+0283 O
+
+Receipt O
+No: O
+
+Date O
+: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:21 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+SUGUS O
+Soft O
+Candy O
+Grape O
+30g*1BR O
+5,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+5.000 B-Amount
+
+5.000 B-Amount
+
+CASH O
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+w.9.Phu I-Address
+NHUan.D.HCM I-Address
+
+02 O
+
+Receipt O
+No: O
+088 O
+20180628 O
+0238 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+02:35 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+DC//ROSY O
+Cracker O
+Cheese O
+110g*1P O
+14,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+14,000 B-Amount
+
+DEBIT O
+
+14,000 B-Amount
+
+AcctName:TE O
+THI O
+HOAI O
+MY O
+MY O
+
+Card O
+No.: O
+*****3017 O
+
+Trace O
+No: O
+000054 O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+02 O
+20180628 O
+0312 O
+
+Date: O
+Dete O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:59 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+
+Thi O
+LE O
+
+Description: O
+
+2 O
+DC//MILO O
+Milk O
+Protomalt O
+1 O
+@9000 O
+18,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+18,000 B-Amount
+
+CASH O
+
+18,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+12:07 O
+PM O
+
+02 O
+20180628 O
+0182 O
+
+Date: O
+Jun B-Date
+2018 I-Date
+
+Cashier: O
+10130-Hang.Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//AQUAFINA O
+Bottled O
+Water O
+500m O
+5,000 O
+
+DC//POCA O
+POCHIP O
+Seaweed O
+56g*1PK O
+12,000 O
+
+CK O
+Iced O
+Cup O
+12oz*1CP O
+2,000 O
+
+DC//STING O
+EDRINK O
+SBR O
+Sleek O
+330m O
+12,000 O
+
+Item(s) O
+(VAT O
+included) O
+
+CIRCLE B-Merchant
+KVIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+w. I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+>k O
+>k O
+> O
+REPRINT O
+> O
+
+k O
+k O
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0287 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:26 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+CK O
+Mixed O
+Noodle O
+with O
+Egg O
+& O
+Smok O
+19,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+19,000 B-Amount
+
+50,000 O
+
+CASH O
+
+CHANGE O
+
+31,000 O
+
+B'smart B-Merchant
+
+C O
+0 O
+C*0:0 O
+
+VNCYS O
+376 O
+376 O
+Le O
+DUC O
+Le B-Address
+DUC I-Address
+Tho, I-Address
+2UC I-Address
+Tho I-Address
+ward I-Address
+ho I-Address
+6 I-Address
+94 O
+A O
+
+IC O
+2 O
+
+store: O
+13094 O
+631089 O
+
+Thursday, O
+June B-Date
+POS: I-Date
+28,2018 I-Date
+002 O
+RCPT: O
+11:08:34am O
+
+AQUAFINA O
+NuC O
+25,000 O
+O O
+VND O
+
+Total: O
+
+25,000 B-Amount
+VND I-Amount
+
+vatable O
+VND O
+VND O
+
+25,000 B-Amount
+VND I-Amount
+
+smerunt. O
+Dinh O
+Thuy O
+D O
+
+121063656790631089 O
+
+*tttt*tttttt O
+
+au7 O
+& O
+ung O
+cap O
+
+CIRCLEK B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..u I-Address
+Nhuan.D. I-Address
+.HCM I-Address
+
+20180628 O
+0215 O
+
+Receipt O
+t O
+No: O
+088 O
+02 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:21 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//ION O
+LIFE O
+Alkaline O
+I-on O
+450m O
+6,000 O
+
+2 O
+DC//STING O
+EDrink O
+S.berry O
+,10000 O
+24.000 O
+@12000 O
+24,000 O
+
+3 O
+Item(s) O
+(VAT O
+included) O
+30,000 B-Amount
+
+30,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+VV.9, I-Address
+Phu I-Address
+Nhuan.D I-Address
+.HCM I-Address
+
+02 O
+
+Receipt O
+No: O
+088 O
+20180628 O
+0356 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+08:14 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+m-m- O
+a-- O
+
+1 O
+555 O
+Gold O
+20s*1PK O
+33,000 O
+
+1 O
+DC//CIRCLE O
+KL O
+ghter*UN O
+6,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+39,000 B-Amount
+
+CASH O
+
+39,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W. I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+
+088 O
+20180628 O
+0237 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+02:17 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+DC//BIG O
+BANG O
+Seaweed O
+Classic O
+6g O
+10,000 O
+
+1 O
+DC//BIBIGO O
+Seaweed O
+Crisps O
+Origi O
+12,000 O
+
+1 O
+THAI O
+SON O
+Milk O
+Corn O
+330m*1BT O
+15,000 O
+
+1 O
+BAULI O
+Croissant O
+Chocolate O
+47g*1P O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0324 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:37 O
+PM O
+
+Cashier: O
+5473-Diem O
+
+Tran O
+Thi O
+Le O
+
+Descript O
+iption: O
+
+2 O
+2 O
+DC//ZOROK O
+Beer O
+330m O
+330m*1CN O
+@11000 O
+22,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+22,000 B-Amount
+
+CASH O
+
+22,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No O
+: O
+088 O
+02 O
+20180628 O
+0313 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:10 O
+PM O
+
+Cashier: O
+Tran O
+Thi O
+Le O
+
+5473-Diem O
+
+Description: O
+
+1 O
+555 O
+Gold O
+20s*1PK O
+33,000 O
+
+1 O
+MOBIFONE O
+Phone O
+Card O
+Paycode O
+20, O
+20,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+53,000 B-Amount
+
+CASH O
+
+53,000 B-Amount
+
+CHANGE O
+
+
+Bsmart B-Merchant
+
+G O
+: O
+
+VNCVS O
+376 O
+Le O
+Duc O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+LeDuc I-Address
+Duc I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+631236 O
+631236 O
+
+Thursday O
+June B-Date
+28, I-Date
+2018 I-Date
+002 O
+08:28:12pm O
+
+10.000 O
+VND O
+
+AQUAFINA O
+
+Nuoc O
+tinh O
+
+Total: O
+10,000 B-Amount
+VND I-Amount
+
+Vatable O
+
+VND O
+
+DIEP O
+P O
+0,000 O
+VND O
+
+NGOC O
+
+121063656790631236 O
+
+************* O
+
+bao O
+
+khi O
+mua O
+Hoa O
+don O
+cap O
+
+Cua O
+hang O
+
+B'smart B-Merchant
+
+BE O
+CU O
+01 O
+
+VNCYS O
+376 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+DuC I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+e O
+2 O
+
+Store: O
+13094 O
+3094 O
+POS: O
+002 O
+002 O
+
+Thursday. O
+June B-Address
+2018 I-Address
+08:27:03am O
+
+Cafe O
+Socol O
+12,000 O
+VND O
+
+Total: O
+vatable O
+12,000 B-Amount
+VND I-Amount
+VND O
+
+1'009 O
+
+12,000 B-Amount
+VND I-Amount
+
+count: O
+
+Dinh O
+Thuy O
+D O
+
+121063656790631057 O
+
+************** O
+
+bao O
+
+hang O
+au O
+do O
+cap O
+
+CIRCLE B-Merchant
+CIRCLE I-Merchant
+K I-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+525To B-Address
+Hien I-Address
+Thanh.Dist1 I-Address
+HCMc I-Address
+
+Receipt O
+No: O
+197 O
+02 O
+20180628 O
+0274 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+04:29 O
+PM O
+
+Cashier: O
+8389-Dung O
+Hoang O
+Minh O
+
+Description: O
+
+
+1 O
+ONG O
+KIMS O
+Kim O
+Chi O
+Korean O
+100g*1P O
+12,000 O
+
+
+1 O
+inciuded) O
+12.000 B-Amount
+
+Item(s) O
+(VAT O
+
+CASH O
+
+12,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+
+VNCVS O
+376 O
+Le O
+DUC O
+Tho O
+
+376 B-Address
+Le I-Address
+pue I-Address
+DuC I-Address
+Dhc I-Address
+Tho, I-Address
+ward I-Address
+24 I-Address
+6 I-Address
+
+C2 O
+2 O
+
+store: O
+13094 O
+POS: O
+002RCPT: O
+631239 O
+
+Thursday, O
+une B-Date
+28, I-Date
+2018 I-Date
+08:35:34pm O
+
+VND O
+
+me O
+
+KEWPIE O
+Nuoc O
+sot O
+
+Total: O
+6,000 B-Amount
+VND I-Amount
+
+5,455 O
+VND O
+
+Tendered O
+By: O
+
+DIEP O
+P O
+6,000 B-Amount
+VND I-Amount
+
+count: O
+NGOC O
+
+121063656790631239 O
+
+******* O
++ O
+* O
+* O
+* O
+** O
+* O
+
+bao O
+
+a O
+hang O
+sau O
+7 O
+don O
+se O
+
+B'smart B-Merchant
+
+BE O
+UR O
+041010 O
+
+VNCVS O
+376 O
+LE O
+r O
+Duc O
+Le O
+Le B-Address
+DuC I-Address
+Tho, I-Address
+Tho I-Address
+ward I-Address
+94 I-Address
+6 I-Address
+
+376 O
+
+
+store: O
+13094 O
+3094 O
+POS: O
+002 O
+RCPT O
+631215 O
+
+Thursday. B-Date
+day. I-Date
+June I-Date
+2018 I-Date
+07:36:47pm O
+
+A O
+Chao O
+trung O
+8,000 O
+
+VND O
+
+Total: O
+8,000 B-Amount
+VNO I-Amount
+
+vatable O
+
+VND O
+
+DIEP O
+P O
+8,000 B-Amount
+VND I-Amount
+
+tem O
+count: O
+NGOC O
+
+121063656790631215 O
+
+hac O
+
+sau O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+w..Phu I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0266 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+04:34 O
+
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+VIETTEL O
+Phone O
+Card O
+Paycode O
+100 O
+100,000 O
+
+3 O
+T//CHUPA O
+CHUPS O
+Sour O
+Sour O
+Belt O
+8 O
+9,000 O
+
+4 O
+Item(s) O
+(VAT O
+included) O
+109,000 B-Amount
+
+CASH O
+
+109,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+
+2 O
+20180628 O
+0222 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:34 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+CK O
+Iced O
+Vietnamese O
+Milk O
+Coffee O
+* O
+9,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+9,000 B-Amount
+
+CASH O
+
+9,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+un O
+No: O
+O: O
+088 O
+0338 O
+
+02 O
+20180628 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+07:16 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+TIPON O
+
+- O
+-- O
+
+1 O
+HAI O
+SON O
+Green O
+Apple*1UN O
+20,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+20,000 B-Amount
+
+CASH O
+
+20,000 B-Amount
+
+CHANGE O
+
+
+Bsmart B-Merchant
+
+VNCVS O
+376 O
+Le O
+376 O
+LE B-Address
+Duc I-Address
+DUC I-Address
+Tho, I-Address
+Tho I-Address
+ward I-Address
+6 I-Address
+94 O
+
+
+13094 O
+POS: O
+002 O
+RCPT: O
+631056 O
+
+store: O
+Thursday O
+June B-Date
+28 I-Date
+28, I-Date
+2018 I-Date
+08:08:14am O
+
+5,000 O
+VND O
+
+DASANI O
+Nuoc O
+tinh O
+kh O
+1 O
+
+Total: O
+5,000 O
+5.000 B-Amount
+VND I-Amount
+
+Vatable O
+
+VND O
+
+5,000 B-Amount
+VND I-Amount
+
+Dinh O
+Thiy O
+D O
+
+121063656790631056 O
+
+bao O
+hoa O
+don O
+
+Hoa O
+dan O
+
+himua O
+hang; O
+
+CIRCLEKVIETNAM B-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9.PhNan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+20180628 O
+0146 O
+
+02 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+11:06 O
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+
+1 O
+CK O
+Bread O
+With O
+Fried O
+Egg*1UN O
+10,000 O
+
+1 O
+MILO O
+Protomal O
+Protomalt O
+Medium O
+edium O
+160z*1CP O
+17,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+27,000 B-Amount
+
+CASH O
+
+100,000 O
+
+CHANGE O
+
+73,000 O
+
+CONG O
+
+LSTOP B-Merchant
+
+[@Hoang O
+Hoang O
+Van O
+Binh O
+
+P.6 O
+Q.Tan#Address*] O
+
+DON O
+BAN O
+HANG O
+
+23/06/2018 B-Date
+(Thu O
+hay O
+08:03 O
+
+12,000 O
+12,000* O
+
+=== O
+
+12,000 O
+
+Tam O
+
+12,000 B-Amount
+
+Tong O
+cong: O
+
+12,000 B-Amount
+
+1,091 O
+
+Thue O
+(10%) O
+: O
+
+So O
+don:2-69847 O
+Thu O
+an:120013 O
+
+khach O
+nhu O
+hoa O
+do, O
+
+lien O
+he O
+chung O
+toi O
+
+vao O
+I0 O
+khach O
+mua O
+hang. O
+
+gian O
+xuat O
+hoa O
+don O
+la O
+ngay. O
+
+thich O
+Gia O
+da O
+thue O
+
+B'smart B-Merchant
+
+
+
+VNCYS O
+376 O
+LE O
+DuC O
+Tho O
+9 O
+94 O
+
+376 B-Address
+Le I-Address
+DUC I-Address
+2 I-Address
+Tho, I-Address
+war'd I-Address
+6 I-Address
+
+store: O
+store: O
+13094 O
+1une O
+POS: O
+2018 B-Date
+002 O
+002 O
+RCPT: O
+631252 O
+
+08:52:38pm O
+
+9,000 O
+
+
+14'000 O
+VND O
+
+Total: O
+39,000 B-Amount
+VNE I-Amount
+
+Vatable O
+3455 O
+VND O
+
+By: O
+
+39,000 B-Amount
+VND I-Amount
+
+NGOC O
+TP O
+P O
+
+121063656790631252 O
+
+* O
+* O
+* O
+****** O
+********** O
+*** O
+
+khach O
+he O
+xuat O
+
+au O
+Hoa O
+dan O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+Phu I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0317 O
+
+Date: O
+28, B-Date
+2018 I-Date
+C6:15 O
+PM O
+
+Jun O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+-- O
+
+2 O
+DC//TAM O
+THAI O
+TU O
+Soya O
+Sauc O
+@9000 O
+18,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+18,000 B-Amount
+
+CASH O
+
+18,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+
+No: O
+088 O
+02 O
+20180627 O
+0280 O
+
+Date: O
+Jun B-Date
+un I-Date
+27. I-Date
+2018 I-Date
+05:22 O
+PM O
+
+Cashier: O
+9825-Vi O
+Huynh O
+Thi O
+Canh O
+
+Description: O
+
+4 O
+DC//ION O
+LIFE O
+Alkaline O
+Alkaline O
+I-0 O
+naROOOC O
+@6000 O
+24,000 O
+
+4 O
+Item(s) O
+(VAT O
+included) O
+24,000 B-Amount
+
+CASH O
+
+24,000 B-Amount
+
+CHANGE O
+
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vi O
+an O
+vui O
+cong O
+dong O
+
+Cira O
+hang O
+s01: O
+
+710/4 B-Address
+Phan I-Address
+Van I-Address
+Tri, I-Address
+P.10, I-Address
+Go I-Address
+Vap. I-Address
+
+E)Tcua O
+hang:0120 O
+06717 O
+358 O
+
+HOADO'N O
+
+BAN O
+LE O
+
+Thanh O
+Trang O
+
+Ngay O
+gio: O
+28/06/2018 B-Date
+
+0416731 O
+Quay: O
+
+hang O
+sL O
+D.Gia O
+T.Tien O
+
+ai O
+Ngot O
+32,000 O
+18,688 O
+
+iNguyen O
+1.00 O
+7,500 O
+7,500 O
+
+Tong O
+cong O
+: O
+1.58 O
+
+26,188 B-Amount
+
+Tien O
+
+on O
+lai O
+Quy O
+khach! O
+
+B'smart B-Merchant
+
+B O
+U O
+
+VNCYS O
+376 O
+Le O
+376 B-Address
+Du I-Address
+Le I-Address
+Tho, I-Address
+DuC I-Address
+Tho I-Address
+ward I-Address
+94 I-Address
+6 I-Address
+
+
+13094 O
+002 O
+002 O
+:631238 O
+
+store: O
+Thursday O
+June O
+POS: O
+28, B-Date
+2018 I-Date
+PCPT: O
+08:32:40pm O
+
+NESTLE O
+Sua O
+tiet O
+tru O
+1 O
+8.500 O
+
+Total: O
+8.500 B-Amount
+VND I-Amount
+
+vatable O
+7727 O
+VND O
+
+VND O
+
+NGOC O
+DIEP O
+
+121063656790631238 O
+
+* O
+* O
+* O
+* O
+** O
+* O
+
+bao O
+xuat O
+In O
+
+lmua O
+$az O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vi O
+an O
+vui O
+i O
+cong O
+dong O
+
+Cua O
+hang O
+so O
+1: O
+
+710/4 B-Address
+710/4 I-Address
+Phan I-Address
+Van I-Address
+Tri,, I-Address
+Go I-Address
+vap. I-Address
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+ThiThanhT O
+
+28/06/2018 B-Date
+1:17 O
+
+0416513 O
+Quay: O
+
+Tenhang O
+SL O
+T.Tien O
+
+chua O
+Ana O
+0.25 O
+35,000 O
+8,750 O
+
+Rau O
+Thom O
+
+10,290 O
+
+ToNG O
+cong O
+: O
+10,290 B-Amount
+
+0.27 O
+
+khach O
+du'a: O
+
+hen O
+gap O
+lai O
+Quy O
+khach! O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..Phu I-Address
+Nhuan I-Address
+D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0256 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+PM O
+
+03:59 O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Descripti O
+ption: O
+
+6 O
+MOZZARELLA O
+String O
+Cheese O
+@11000 O
+66,000 O
+
+*PRO O
+JUN O
+@Reg: O
+13000.00 O
+
+6 O
+Item(s) O
+(VAT O
+included) O
+66,000 B-Amount
+
+CASH O
+
+CHANGE O
+
+66,000 B-Amount
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+pho I-Address
+Quang. I-Address
+W.9, I-Address
+Phu I-Address
+NhuAn.D.HCM I-Address
+
+Receipt O
+No O
+: O
+088 O
+02 O
+20180628 O
+0187 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:17 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+
+1 O
+DC//AQUAFINA O
+Bottled O
+Water O
+500m O
+5,000 O
+
+-- O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+5,000 B-Amount
+
+CASH O
+
+5.000 B-Amount
+
+CHANGE O
+
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+cong O
+dong O
+
+s0 O
+1: O
+
+710/4 B-Address
+Tri, I-Address
+Go I-Address
+Vap. I-Address
+
+DTcia O
+hang: O
+0120 O
+6717 O
+358 O
+
+HOA O
+DON O
+BAN O
+LE O
+
+su O
+
+28/06/2018 B-Date
+10:25:36 O
+
+$8 O
+0416804 O
+NQ21 O
+
+hang O
+SL O
+D.Gia O
+T.Tien O
+
+chua O
+mai O
+9,000 O
+18,000 O
+
+GoodMilk O
+
+45,000 O
+31,860 O
+
+Tong O
+cong O
+: O
+49,860 B-Amount
+
+khach O
+dua: O
+49,860 O
+
+Le O
+oi O
+Ngoc O
+
+8894495 O
+
+ich O
+Uy: O
+276.3 O
+
+cam O
+
+va O
+hen O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+Pho B-Address
+Quang. I-Address
+W.9. I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0245 O
+
+Date: O
+Jun B-Date
+28, I-Date
+02:54 O
+PM O
+
+Cashier: O
+2018 O
+
+5473-Di O
+iem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+BETAGEN O
+Yg O
+Drink O
+Orange O
+140m*1 O
+10,000 O
+
+1 O
+SAVOURE O
+Croissant O
+Mini O
+5pcs*1PK O
+12,000 O
+
+SAVOURE O
+Cake O
+Triangl O
+95g*1PK O
+17,000 O
+
+3 O
+Item(s) O
+(VAT O
+included) O
+9,000 B-Amount
+
+CASH O
+
+39.000 O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+[@124 O
+Pho O
+Quang. O
+Nhuan.D O
+HCM O
+
+W.9.#Address*] O
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0191 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:23 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+2 O
+CORNETTO O
+CHOCO O
+Vani O
+Mini O
+@9000 O
+18,000 O
+
+CK O
+Red O
+Thai O
+Milk O
+Tea O
+16oz O
+10,000 O
+
+CK O
+Bread O
+with O
+Butter&Condensed O
+M O
+6,000 O
+
+T//DARS O
+Strawberry O
+Chocolate O
+21 O
+13,000 O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9 I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+28, B-Date
+2018 I-Date
+06:42 O
+PM O
+
+088 O
+02 O
+20180628 O
+0327 O
+
+Date: O
+Jun O
+Thi O
+Le O
+
+Cashier: O
+5473-Diem O
+Tran O
+
+Description: O
+
+1 O
+CK O
+Froster O
+Hershey O
+Small O
+120Z*1 O
+12,000 O
+
+1 O
+Item(s) O
+(VAT O
+ncl O
+luded) O
+12,000 B-Amount
+
+12,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+B'smart B-Merchant
+
+YOUR O
+0400 O
+
+VNCVS O
+376 O
+376 B-Address
+Le I-Address
+Tho. I-Address
+Duc I-Address
+Tho I-Address
+ward I-Address
+94 O
+
+Le O
+Duc O
+2 O
+6 O
+
+Store: O
+Thursday O
+13094 O
+June O
+POS: O
+P8: O
+28, B-Date
+2018 I-Date
+1002 O
+002 O
+RCPT: O
+08:14:40pm O
+631231 O
+
+AQUAFINA O
+NuDC O
+Nuc O
+tinh O
+1 O
+1 O
+5,000 O
+VND O
+
+5,000 B-Amount
+VND I-Amount
+
+vatable O
+4,545 O
+VND O
+
+BY: O
+5,000 B-Amount
+VND I-Amount
+
+cashier: O
+NGOC O
+P O
+P O
+
+12106365679063123 O
+
+* O
+* O
+* O
+* O
+* O
++* O
+* O
+* O
+* O
+* O
+**;** O
+********** O
+
+B'smart B-Merchant
+
+
+$10105 O
+
+VNCYS O
+376 O
+S7 O
+LE O
+DUC O
+2uc O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+Duc I-Address
+IC, I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+Store: O
+13094 O
+June B-Date
+POS: O
+002 O
+RCPT: O
+
+08:23:12pm O
+
+Se O
+chua O
+16,000 O
+VND O
+
+YOMOST O
+rang O
+bo O
+8'000 O
+VND O
+
+32,000 B-Amount
+VND I-Amount
+
+vatable O
+29,091 O
+VND O
+VND O
+
+By: O
+
+EP O
+P O
+32,000 B-Amount
+VND I-Amount
+
+NGOC O
+
+121063656790631232 O
+
+dan O
+
+Bsmart B-Merchant
+
+K O
+` O
+gUP O
+0 O
+
+VNCVS O
+376 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+DUC I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+PoS: O
+002 O
+RCPT: O
+PT8:42:12pm O
+631243 O
+631243 O
+
+Thursday O
+rsday, O
+June B-Date
+28, I-Date
+
+IPOVITAN O
+Nuoc O
+tang O
+1 O
+9.000 O
+VND O
+
+9.000 B-Amount
+VND I-Amount
+
+Total: O
+vatable O
+
+VND O
+
+9,000 B-Amount
+VND I-Amount
+
+EP O
+P O
+
+em O
+count: O
+NGOC O
+
+12106365679063124 O
+
+bao O
+
+khimua O
+hang; O
+
+cua O
+hang O
+
+IN B-Merchant
+CONG I-Merchant
+NHH I-Merchant
+
+[@521 O
+
+Thu O
+P.6 O
+Q.Tan O
+Binh#Address*] O
+
+HOA O
+DON O
+BAN O
+HANG O
+
+28/06/2018 B-Date
+(Thu O
+
+15,000 O
+
+bulgogi O
+
+15,000* O
+
+15,000 O
+
+15,000 B-Amount
+
+Tong O
+cong: O
+
+15,000 B-Amount
+
+
+Thue O
+(10%): O
+(5%): O
+
+don:2-71510 O
+Thu O
+ngan:120010 O
+
+Neu O
+Quy O
+khach O
+nhu O
+cau O
+hoa O
+don O
+
+lien O
+he O
+voi O
+vien O
+chung O
+toi O
+
+va O
+
+mua O
+
+xuat O
+hoa O
+don O
+
+Dong O
+Gia O
+thue O
+VAT O
+
+CO O
+tinh O
+
+dang O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W..PhNhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+088 O
+02 O
+20180628 O
+0176 O
+
+No: O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:00 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Descr O
+ription: O
+
+1 O
+CK O
+Fried O
+Egg O
+*1UN O
+6,000 O
+
+1 O
+CK O
+Soup O
+Noodle O
+Original O
+*PK O
+8,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+14,000 B-Amount
+
+CASH O
+
+14,000 B-Amount
+
+CHANGE O
+
+
+THE B-Merchant
+COFFEE I-Merchant
+HOUSE I-Merchant
+
+249 B-Date
+Thudng I-Date
+Kiet, I-Date
+Quan I-Date
+11 I-Date
+
+Delivery: O
+1800 O
+6936 O
+
+Hotline: O
+02871 O
+087 O
+088 O
+
+www.thecoffeehouse.com O
+
+i O
+gian: O
+15.31 O
+So'HE: O
+1100610285 O
+
+ngan: O
+Hoang O
+
+Ten O
+mon O
+S O
+D.Gia O
+
+Combo O
+trua O
+chieu O
+10 O
+65 B-Amount
+000 I-Amount
+65 B-Amount
+000 I-Amount
+
+Ce O
+
+T06.2018 O
+
+5 O
+000 O
+
+Thanh O
+tien: O
+
+giam O
+gia: O
+
+Toan O
+
+75000 O
+
+n O
+khach O
+
+ien O
+thua O
+: O
+
+ien O
+mat O
+VND O
+
+san O
+pham O
+da O
+bao O
+10% O
+
+thecoffeehouse O
+
+phf O
+iao O
+hang O
+hoa O
+don O
+tren O
+0.000 O
+VND O
+
+ecoffeehouse. O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+WHCM I-Address
+
+Receipt O
+No: O
+11:34 O
+AM O
+
+088 O
+02 O
+20180628 O
+0159 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+NESTEA O
+Tea O
+Lemon O
+Medium O
+160z*1CP O
+9,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+9,000 B-Amount
+
+9,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+[@521 O
+Hoang O
+Van O
+
+Hoang O
+Van O
+Thu O
+Q.Tan O
+Binh#Address*] O
+
+DON O
+
+23/06/2018 B-Date
+(Thu O
+
+08:10 O
+
+Temakionigiri O
+
+16.000 O
+
+16,000* O
+
+tinh: O
+
+cong: O
+
+16,000 B-Amount
+
+iue O
+
+So O
+don:2-69318 O
+Thu O
+ngan:120013 O
+
+khach O
+nhu O
+cau O
+xuat O
+hca O
+don O
+do, O
+
+vien O
+toi O
+
+T O
+mua O
+
+Thoi O
+xuat O
+hoa O
+don O
+do O
+la O
+7 O
+ngay. O
+
+gia1 O
+thue O
+VAT O
+
+pham O
+thue O
+
+uu O
+
+chuong O
+
+Cam O
+on O
+ban O
+da O
+pham O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+
+No O
+lu'c O
+vui O
+cong O
+dong O
+
+vi O
+an O
+QUE O
+
+Cia O
+hang O
+s6 O
+1: O
+
+710/4 B-Address
+van I-Address
+Tr I-Address
+10. I-Address
+Vap. I-Address
+
+DTcia O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DON O
+BAN O
+LE O
+
+Thanh O
+
+sy': O
+
+28/06/2018 B-Date
+17:4 O
+17:48:33 O
+
+SOHd: O
+0417129 O
+Quay: O
+NQ2 O
+
+Tenhang O
+S O
+D.Gia O
+T.Tien O
+
+Ca O
+0.21 O
+49,000 O
+10,094 O
+
+2 O
+R.Den O
+BB O
+35,000 O
+
+Tong O
+
+20,174 B-Amount
+
+khach O
+dua: O
+
+20,174 O
+
+hen O
+gap O
+lai O
+Quy O
+khach! O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+[@124 O
+Pho O
+O O
+Quang. O
+W.9.Phum O
+Nhuan.D. O
+HCM O
+
+#Address*]Receipt O
+20180628 O
+
+No: O
+088 O
+02 O
+0286 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:24 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+
+1 O
+DC//STING O
+EDRINK O
+SBR O
+Sleek O
+330m O
+12,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+12,000 B-Amount
+
+CASH O
+
+52,000 O
+
+CHANGE O
+
+40.000 O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9, I-Address
+Phu I-Address
+Nhuan.D.HCM I-Address
+
+02 O
+
+Receipt O
+No: O
+088 O
+20180628 O
+0320 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:29 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+---- O
+--m- O
+
+1 O
+CK O
+Iced O
+Vietnamese O
+Coffee O
+Double O
+9,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+9,000 B-Amount
+
+CASH O
+
+9,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W9.hu I-Address
+Nhuan. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0173 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+
+11:52 O
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//MINH O
+THU O
+Playing O
+Card*1Un O
+10,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+10,000 B-Amount
+
+CASH O
+
+CHANGE O
+
+10,000 B-Amount
+
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vi O
+i O
+cong O
+dong O
+
+Cira O
+hang O
+
+710/4 B-Address
+Phan I-Address
+P.10, I-Address
+ovap. I-Address
+
+DTcia O
+hang:0120 O
+717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+Le O
+Thanh O
+Trang O
+
+Ngay O
+28/06/20 B-Date
+.18 O
+9:14:03 O
+
+0416693 O
+Quay: O
+Ca O
+1 O
+
+hang O
+D.Gia O
+T.Tien O
+
+1,260 O
+
+Chua O
+1 O
+00 O
+3,000 O
+3,000 O
+
+0.05 O
+120,000 O
+6,000 O
+
+Tong O
+cong O
+1.07 O
+10,260 B-Amount
+
+Tien O
+khach O
+
+10,260 O
+
+Xin O
+cam O
+on O
+va O
+ahen O
+
+Bsmart B-Merchant
+
+10 O
+
+
+VNCVS O
+376 O
+Le O
+Duc O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+Duc I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+631240 O
+
+une O
+REPRINT O
+08:39:07pm O
+
+5500 O
+VND O
+
+l'oo O
+Vnd O
+
+51.500 B-Amount
+
+VND O
+
+46,818 O
+VND O
+
+vatable O
+
+By; O
+51,500 B-Amount
+VND I-Amount
+
+NGOC O
+EPP O
+
+tem O
+
+121063656790631240 O
+
+tttttt*t O
+********* O
+* O
+* O
+* O
+
+khach O
+
+hana O
+dan O
+Se O
+cung O
+cap O
+
+sau O
+ngay. O
+
+CONG O
+TNHH O
+NAM O
+
+[@Fi0 O
+h O
+Thanh, O
+HCM O
+
+521 O
+Q.Tan O
+Binh#Address*] O
+
+HOA O
+DON O
+BAN O
+HANG O
+
+07:42 O
+
+23/06/2018 B-Date
+(Thu O
+
+27,000 O
+27,000* O
+
+Tam O
+
+27,000 B-Amount
+
+cong: O
+
+-3,000 O
+
+thua: O
+
+
+(10%): O
+
+don:2-69956 O
+ngan:120013 O
+
+Neu O
+Quy O
+khach O
+nhu O
+cau O
+xuat O
+hoa O
+don O
+do, O
+
+lien O
+he O
+vien O
+chung O
+toi O
+
+mua O
+
+gian O
+xuat O
+hoa O
+do O
+la O
+
+giai O
+Gia O
+ay O
+VAT O
+
+CO O
+tinh O
+
+Desc O
+
+
+1 O
+It O
+
+CA O
+
+CHA O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+VV.9, I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+No O
+: O
+088 O
+02 O
+20180628 O
+0337 O
+
+Receipt O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+07:14 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+
+1 O
+CK O
+Dimsum*1 O
+1UN O
+11,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+d) O
+11,000 B-Amount
+
+CASH O
+
+11,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+Ww.9. I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+t O
+No: O
+088 O
+02 O
+02 O
+20180628 O
+0233 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+02:06 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+--- O
+
+1 O
+CK O
+Iced O
+Vietnamese O
+Milk O
+Coffee O
+* O
+9,000 O
+
+1 O
+Item(s) O
+(VAT O
+ihc O
+luded) O
+9.000 B-Amount
+
+9,000 B-Amount
+
+CASH O
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9.Phu I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0331 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:52 O
+PM O
+
+Description: O
+Cashier: O
+
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+1 O
+DC//CUNG O
+DINH O
+Noodle O
+Shrimp O
+HS O
+12,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+12,000 B-Amount
+
+CASH O
+
+22,000 O
+
+CHANGE O
+
+10,000 O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+NO O
+
+No O
+lu'c O
+an O
+vui O
+ui O
+cong O
+dong O
+
+Cira O
+hang O
+so1: O
+
+710/4 B-Address
+Phan I-Address
+Van I-Address
+Tri, I-Address
+P.10, I-Address
+Go I-Address
+vap. I-Address
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DON O
+BAN O
+LE O
+
+0416499 O
+
+en O
+hang O
+S O
+D.Gia O
+T.Tien O
+
+Hao O
+Xanh O
+26,000 O
+11,076 O
+
+Tong O
+cong O
+: O
+0.43 O
+11,076 B-Amount
+
+Tien O
+dua: O
+11,076 O
+
+Lien O
+
+8892877 O
+
+l0y: O
+261,5 O
+
+Xin O
+cam O
+lai O
+Quy O
+khach! O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+No: O
+088 O
+02 O
+20180628 O
+0344 O
+
+Receipt O
+
+Date: O
+: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+07:44 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+CORNETTO O
+Royale O
+Chocoluv O
+88g*1C O
+1C O
+20,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+20,000 B-Amount
+
+CASH O
+
+20,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+w.9. I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+11:52 O
+
+02 O
+20180628 O
+0174 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+NESTEA O
+Tea O
+Lemon O
+Small O
+120z*1CP O
+7,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+7,000 B-Amount
+
+7,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+WPhuNhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+o O
+088 O
+PM O
+
+02 O
+20180628 O
+0297 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:40 O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+--- O
+
+2 O
+FOHLA O
+Banana O
+1 O
+1 O
+Unit*PA O
+@9000 O
+18,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+18,000 B-Amount
+
+CASH O
+
+18,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Q I-Address
+Quang. I-Address
+V.9, I-Address
+Phu I-Address
+NhuAN.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0216 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:24 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//MARLBORO O
+Light O
+20s* O
+20s*1PK O
+29.000 O
+
+1 O
+SAVOURE O
+Cake O
+Banana O
+80g*1PK O
+12,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+41,000 B-Amount
+
+CASH O
+
+41,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+94 O
+
+VNCYS O
+376 O
+Le O
+376 B-Address
+Duc I-Address
+Le I-Address
+DuC I-Address
+Tho, I-Address
+Tho, I-Address
+DuC I-Address
+Tho I-Address
+ward I-Address
+6 I-Address
+
+
+13094 O
+13094 O
+POS: O
+002 O
+RCPT: O
+631251 O
+
+Thursday O
+store: O
+hursday, O
+june B-Date
+28 I-Date
+, O
+08:52:04pm O
+
+8.000 O
+VND O
+
+180m O
+xl O
+Hop O
+
+Total: O
+8.000 B-Amount
+VND I-Amount
+
+vatable O
+7,273 O
+VND O
+
+Tendered O
+y: O
+
+VND O
+
+DIEP O
+
+NGOC O
+
+121063656790631251 O
+
+***** O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+
+hao O
+xuat O
+
+non O
+HOa O
+don O
+se O
+cung O
+cap O
+
+abang O
+au7 O
+
+FamilyMart B-Merchant
+
+AMHMAARUNEOEMALIUAKUE O
+
+529 B-Address
+Le I-Address
+Duc I-Address
+Gvap I-Address
+
+28-389417127 O
+Fax O
+.38947127 O
+
+HOA O
+DON O
+BAN O
+HANG O
+
+SoHE):10801180629204149 O
+
+Tenhang O
+Don O
+Thanh O
+tian O
+
+T2.Nuc O
+uong O
+th O
+o O
+9,000 O
+
+2T2.Chuoj O
+Fohla O
+8,000 O
+8,000 O
+
+TOn O
+
+Tong O
+cong: O
+
+17,000 B-Amount
+
+Tien O
+khacht O
+
+CASH O
+VND: O
+20,000 O
+
+thoi O
+lai O
+
+3,000 O
+
+cam O
+quy O
+khach O
+
+ngan: O
+000 O
+
+Ngay: O
+28/06/2018 B-Date
+. O
+G10 O
+20:41 O
+
+hie O
+
+yeu O
+
+can O
+
+ong O
+shall O
+e O
+available O
+with O
+
+ngay. O
+
+issuance O
+TODAY. O
+INVOICES O
+
+request O
+after O
+the O
+following O
+day O
+of O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+whu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02_20180628 O
+02 O
+0264 O
+
+Date: O
+Jun B-Date
+2018 I-Date
+04:30 O
+PM O
+
+28, O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+DC//KOTEX O
+Style O
+S.Pads O
+WW O
+8pcs* O
+18,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+18,000 B-Amount
+
+CASH O
+
+CHANGE O
+
+18,000 B-Amount
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+088 O
+02 O
+20180628 O
+0353 O
+
+No: O
+2018 O
+02 O
+PM O
+
+Date: O
+Jun B-Date
+28, I-Date
+08:12 O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+OREO O
+Sandwich O
+Cookies O
+Chocolate O
+16,000 O
+
+1 O
+LAUGHING O
+COW O
+Cheese O
+8 O
+Portions O
+36,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+52,000 B-Amount
+
+CASH O
+
+52,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+
+
+VNCYS O
+376 O
+Le O
+376 O
+DuC O
+Le B-Address
+DUC I-Address
+Tho, I-Address
+DuC I-Address
+Tho I-Address
+ward I-Address
+6 I-Address
+94 O
+94 O
+
+13094 O
+002 O
+002 O
+RCPT: O
+cp O
+
+13094 O
+u O
+08:47:23pm O
+
+5,500 O
+VND O
+
+sua O
+dau O
+nanh O
+
+5,500 O
+
+5,000 O
+
+Vatable O
+
+Tendered O
+By: O
+
+P O
+5,500 B-Amount
+VND I-Amount
+
+m O
+count: O
+NGOC O
+DIEp O
+
+121063656790631247 O
+
+*** O
+* O
+** O
+
+khi O
+mua O
+thong O
+bao O
+C O
+cung O
+cap O
+
+hang O
+hang; O
+Ho O
+
+B'smart B-Merchant
+
+
+
+VNCS O
+376 O
+Le O
+Duc O
+Tho O
+24 O
+
+376 B-Address
+LE I-Address
+Duc I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+POS O
+: O
+002 O
+RCPT: O
+
+REPRIN'T O
+08:46:23pm O
+
+STRONGBOW O
+Apple O
+
+VND O
+
+6'000 O
+
+STRONGBOW O
+ApplE O
+
+m.ep O
+
+'o00 O
+
+21,000 O
+VND O
+
+Total: O
+98,000 B-Amount
+VND I-Amount
+
+VND O
+
+Vatable O
+
+VND O
+
+98,000 B-Amount
+VND I-Amount
+
+items O
+
+OTN O
+
+m O
+count: O
+
+121063656790631245 O
+
+bao O
+xuat O
+
+don O
+cung O
+cap O
+
+cua O
+hangi O
+
+
+[@MODERN O
+
+HUSTLE#Merchant*] O
+
+Copac B-Address
+Building I-Address
+
+TABLE O
+#31 O
+
+Trans#: O
+3630 O
+
+06/29/2018 B-Date
+Serv: O
+10:03:25 O
+AM O
+VUONG O
+MINH O
+AM O
+KHA O
+#Cust:1 O
+
+===e===z====2==2==2=====: O
+
+Quan O
+Description O
+Cost O
+
+=====E==E=E: O
+
+Hot O
+Cappuccino O
+(S) O
+50,000 O
+
+== O
+
+Net O
+Total: O
+45 O
+45,455 O
+
+VAT: O
+
+,545 O
+
+============F== O
+
+TOTAL O
+: O
+50.000 B-Amount
+
+CASH O
+
+50,000 B-Amount
+
+Change: O
+
+
+THANK O
+YOU O
+! O
+
+Password: O
+Wifi: O
+MORDEN O
+coderhustl O
+HUSTLE O
+
+Bsmart B-Merchant
+
+E O
+$ O
+OU O
+010108 O
+
+VNCVS O
+376 O
+376 O
+Le O
+DuC O
+Tho O
+94 O
+
+376 B-Address
+LE I-Address
+Duc I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+Store: O
+13094 O
+POS: O
+002 O
+002 O
+RC O
+RCPT: O
+7631152 O
+
+Thursday, O
+
+03:54:18pm O
+
+STRONGBOW O
+A14 O
+cid O
+18,000 O
+VND O
+
+Vatable O
+18,000 B-Amount
+VND I-Amount
+
+11'86 O
+VND O
+
+VND O
+
+Transaction O
+items O
+from O
+
+merunt. O
+
+1210636567 O
+
+thong O
+bao O
+
+hang O
+au O
+7 O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9 I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+
+02 O
+20180628 O
+0168 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+11:46 O
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+- O
+--m- O
+
+1 O
+CK O
+Io O
+Iced O
+Cup O
+12oz*1CP O
+2,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+2,000 B-Amount
+
+CASH O
+
+2,000 B-Amount
+
+CHANGE O
+
+
+tlh O
+
+B'smart B-Merchant
+
+C O
+y O
+U O
+03100 O
+
+VNCVS O
+376 O
+L.e O
+376 O
+DUC O
+LE O
+Le B-Address
+c.Tho, I-Address
+DuC I-Address
+Tho I-Address
+ward I-Address
+94 I-Address
+
+
+
+Store: O
+13094 O
+POS O
+: O
+002 O
+
+Thursday, O
+07:29:577 O
+631212 O
+
+IRINDA O
+
+Nuac O
+giai O
+k O
+9.500 O
+VND O
+
+Total: O
+9,500 B-Amount
+VND I-Amount
+
+Vatable O
+8,636 O
+VND O
+
+9,500 B-Amount
+VND I-Amount
+
+Item O
+NGOC O
+DIEP O
+P O
+
+12106365679063121 O
+
+hang. O
+Xat O
+cung O
+cap O
+
+au O
+7 O
+
+THE B-Merchant
+COFFEE I-Merchant
+HOUSE I-Merchant
+
+249 B-Address
+Thudng I-Address
+Kiet, I-Address
+Quan I-Address
+11 I-Address
+
+Delivery: O
+1800 O
+6936 O
+
+02871 O
+087 O
+
+088 O
+
+Hotline: O
+
+wwrw.thecoffeehouse.com O
+
+28.06.2018 B-Date
+15.33 O
+1100610286 O
+
+Hoang O
+van O
+Vinh O
+
+S O
+D.Gia O
+T.Tien O
+
+macchiato(R) O
+1,0 O
+48 O
+000 O
+
+48 B-Amount
+000 I-Amount
+
+Thanh O
+tien: O
+
+
+hieugiam O
+
+Thanh O
+Toan O
+: O
+
+200000 O
+
+n O
+khach O
+
+152 O
+000 O
+
+48 B-Amount
+000 I-Amount
+
+10% O
+
+Giasan O
+pham O
+da O
+bao O
+gom O
+
+wifl O
+: O
+thecoffeehouse O
+
+VND O
+
+Mian O
+giao O
+hang O
+hoa O
+don O
+ran O
+
+use.com O
+goi O
+
+Cam O
+
+THE B-Merchant
+COFFEE I-Merchant
+HOUSE I-Merchant
+
+Thuong O
+
+11 O
+
+Delivery: O
+1800 O
+6936 O
+
+Hotline: O
+02871087 O
+088 O
+
+www.thecoffeehouse.com O
+
+oi O
+Sicn. O
+28.06.2018 B-Date
+15.33 O
+So O
+He: O
+I100610286 O
+
+u O
+ngan: O
+Hoang O
+Van O
+Vinh O
+$0-28 O
+
+Tam O
+mon O
+SL O
+D.Gia O
+T.Tien O
+
+macchiato(R) O
+1,0 O
+48 O
+000 O
+48 O
+
+tien: O
+
+48 O
+000 O
+AS O
+
+
+nieugiam O
+gia: O
+
+Toan: O
+
+48 B-Amount
+000 I-Amount
+
+Tien O
+khach O
+
+00000 O
+
+ru O
+pham O
+d O
+o O
+gom O
+
+Password O
+wifi: O
+thecoffeehouse O
+
+Miun O
+giao O
+hang O
+hoa O
+don O
+tran O
+50. O
+
+Dat O
+tai O
+www.thecoffeehouse.com O
+hoac O
+
+B'smart B-Merchant
+
+B O
+OU O
+0100 O
+
+VNCVS O
+376 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+Duc I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+Thursday O
+store: O
+13094 O
+June B-Date
+POS I-Date
+: I-Date
+2018 I-Date
+002 O
+RCPT: O
+09:11:20ain O
+631069 O
+
+28, O
+
+BREAK O
+
+10,000 O
+VND O
+
+Total: O
+
+[@10,000 O
+
+VND#Amount*] O
+
+Vatable O
+
+9,09 O
+VND O
+
+Tendered O
+By: O
+10,000 B-Amount
+VND I-Amount
+
+Dinh O
+huy O
+D O
+
+121063656790631069 O
+
+khach O
+thong O
+xuat O
+GTGT O
+
+YCUahang O
+sau O
+cap O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+02 O
+20180628 O
+
+088 O
+02 O
+0329 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:48 O
+06:48 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+-- O
+
+1 O
+DC//OISHI O
+Cheese O
+Snack O
+48g*1PK O
+6,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+6,000 B-Amount
+
+CASH O
+
+6,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+02 O
+20180628 O
+
+Receipt O
+No: O
+088 O
+0188 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:18 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+3 O
+DC//HAO O
+HAO O
+Noodle O
+Shrimp O
+@4000 O
+2,000 O
+
+1 O
+CK O
+Steam O
+Bun O
+Salty O
+Duck O
+Egg O
+& O
+Q O
+16,000 O
+
+4 O
+Item(s) O
+(VAT O
+included) O
+28,000 B-Amount
+
+28,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9.Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+088 O
+02 O
+
+Receipt O
+Jun O
+No: O
+20180628 O
+0269 O
+
+Date: O
+28, B-Date
+2018 I-Date
+04:45 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Descript O
+on: O
+
+1 O
+DC//TEA+Tea O
+Oolong O
+455m*PT O
+10.000 O
+
+1 O
+DC//RED O
+BULL O
+Energy O
+Drink O
+-CHAI O
+12,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+22,000 B-Amount
+
+CASH O
+
+50,000 O
+
+CHANGE O
+
+28,000 O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9.hNhuan.D. I-Address
+HCM I-Address
+
+088 O
+02 O
+20180628 O
+0228 O
+
+Receipt O
+No: O
+02 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:53 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//STING O
+EDRINK O
+SBR O
+Sleek O
+330m O
+12,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+12,000 B-Amount
+
+12,000 B-Amount
+
+CASH O
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+B O
+E O
+
+VNCVS O
+376 O
+76 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+Duc I-Address
+Tho I-Address
+, O
+
+ThursdayJ O
+13094 O
+002 O
+CPTO5:44303pm O
+
+june O
+
+WONDERFARM O
+T O
+Tra O
+bi O
+d O
+VND O
+3,500 O
+VND O
+
+,000 O
+3,500 O
+OVND O
+
+chuoi O
+praT O
+
+:8.000 O
+VND O
+-1,500 O
+VND O
+
+Total O
+vatable O
+10.000 B-Amount
+
+9,322 O
+
+5,00 O
+VND O
+
+P O
+P O
+
+Item O
+
+3656790631177 O
+
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+thong O
+bao O
+don O
+
+hima O
+hang O
+se O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+20180628 O
+
+Receipt O
+No: O
+088 O
+02 O
+0326 O
+
+Date O
+: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:41 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+-- O
+- O
+
+1 O
+DC//AQUAFINA O
+Bottled O
+Water O
+500m O
+5.000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+5,000 B-Amount
+
+5,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLEK B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+4 I-Address
+Pho I-Address
+Quang. I-Address
+W.9, I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+20180628 O
+
+Receipt O
+No: O
+088 O
+02 O
+0318 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+06:15 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+DC//DASANI O
+Bottled O
+Water O
+r O
+500ml*1 O
+5,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+5,000 B-Amount
+
+5,000 B-Amount
+
+CASH O
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+KVIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+V.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+20180628 O
+0336 O
+
+Receipt O
+No: O
+088 O
+02 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+7:14 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+
+1 O
+VINAFONE O
+Phone O
+Card O
+Paycode O
+50, O
+50,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+50,000 B-Amount
+
+50,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+lu'c O
+vi O
+an O
+vui O
+ui O
+cong O
+dong O
+
+Cira O
+hang O
+s01: O
+
+710/4 B-Address
+Phan I-Address
+Van I-Address
+Tri, I-Address
+P.10, I-Address
+Go I-Address
+vap. I-Address
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+
+DO'N O
+BAN O
+LE O
+
+Cong O
+su: O
+LE O
+Thi O
+Thanh O
+Trang O
+
+28/06/2018 B-Address
+0:50:43 O
+
+SOHD: O
+0416833 O
+NQ2.1 O
+
+T.Tien O
+
+SL O
+
+0.23 O
+260,000 O
+
+Tong O
+cong O
+: O
+0.23 O
+9,800 B-Amount
+
+500,000 O
+
+440,200 O
+
+Xin O
+cam O
+on O
+va O
+gap O
+Quy O
+khach! O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0314 O
+
+Date: O
+n B-Date
+2018 I-Date
+06:12 O
+PM O
+
+Jun O
+28, O
+
+Cashier: O
+5473-Diem O
+Tan O
+Thi O
+Le O
+
+Description: O
+
+1 O
+NESTEA O
+Tea O
+LemON O
+Small O
+120z*1CP O
+7,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+7,000 B-Amount
+
+CASH O
+
+7,000 B-Amount
+
+CHANGE O
+
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vi O
+an O
+i O
+cong O
+dong O
+
+hang O
+
+Phan O
+
+Vap. O
+
+ETcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+Thanh O
+Trang O
+
+28/06/2018 B-Date
+8 O
+8:12:25 O
+
+s8 O
+Quay: O
+NQ2 O
+1 O
+
+TEnhang O
+SL O
+D.Gia O
+T.Tien O
+
+Farmmilk O
+co O
+4.00 O
+17,000 O
+68,000 O
+
+300m O
+
+u O
+Non(hop)-Vi O
+1,000 O
+11,000 O
+
+Nguyen O
+280g O
+
+45,000 O
+8,910 O
+
+R.Muong O
+BB O
+0.48 O
+34,000 O
+16,184 O
+
+Tong O
+ong O
+: O
+5.67 O
+104,094 B-Amount
+
+dua: O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+WV.9 I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+20180628 O
+0193 O
+
+Receipt O
+No: O
+088 O
+02 O
+02 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:26 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+-- O
+
+1 O
+DC//TULIP O
+Luncheon O
+Meat O
+200-LON O
+56,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+56,000 B-Amount
+
+56,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+B'smart B-Merchant
+
+VNCVS O
+376 O
+LE O
+376 O
+DuC O
+L.E B-Address
+DUC I-Address
+ThO, I-Address
+Tho I-Address
+ward I-Address
+6 I-Address
+94 O
+
+
+store: O
+13094 O
+POS: O
+28, O
+2018 O
+002 O
+RCPT: O
+08:46:53pm O
+
+Thursday, O
+June B-Date
+
+VINAMILK O
+k<em O
+Khoai O
+1 O
+9.000 O
+VND O
+
+DASANI O
+NUDC O
+tinh O
+kh O
+000 O
+VND O
+
+14,000 B-Amount
+VND I-Amount
+
+Vatable O
+1'273 O
+VND O
+
+14,000 B-Amount
+VND I-Amount
+
+NGOC O
+DIEP O
+P O
+
+Item O
+
+656790631246 O
+
+xuat O
+
+ica O
+
+Lua O
+
+id O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+cong O
+dong O
+
+hang O
+
+Phan O
+
+Vap. O
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+Trang O
+
+28/06/2018 B-Date
+8:11:18 O
+
+Quay: O
+NQ2 O
+1 O
+
+Tenhang O
+D.Gia O
+T.TiEn O
+
+R.Ngot O
+36,000 O
+11,592 O
+
+Sup O
+Xanh O
+0 O
+23 O
+45,000 O
+14,490 O
+
+R.Thom O
+70,000 O
+6,860 O
+
+THIT O
+XAY O
+0.09 O
+105,000 O
+,cn O
+
+Tong O
+cong O
+: O
+0.84 O
+42,812 B-Amount
+
+du'a: O
+
+42,812 O
+
+Nguyen O
+
+8894841 O
+
+tich O
+luy: O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.n.D. I-Address
+HCM I-Address
+
+V O
+I O
+D O
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0148 O
+
+Date: O
+Jun B-Date
+2018 I-Date
+11:07 O
+AM O
+
+Cashier: O
+
+10130-Hang O
+Tran O
+Thu O
+
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+-1 O
+CK O
+Bread O
+With O
+Fried O
+Egg* O
+-10,000 O
+
+-1 O
+MILO O
+Protomalt O
+Medium O
+160z*1CP O
+-17,000 O
+
+-2 O
+Item(s) O
+(VAT O
+included) O
+- O
+27,000 B-Amount
+
+CASH O
+
+- O
+27,000 B-Amount
+
+VOIDED: O
+Rcpt# O
+02 O
+
+Reason: O
+
+M O
+CONG O
+MINISTOP B-Merchant
+VIET I-Merchant
+NAM I-Merchant
+
+215 O
+0 O
+
+[@Hoang O
+Thu O
+
+Van O
+P.6 O
+Q.Tan O
+Binh#Address*] O
+
+DON O
+BAN O
+HANG O
+
+23/06/2018 B-Date
+(Thu O
+
+07:20 O
+
+Takoyaky O
+(new) O
+18,000* O
+
+kariman O
+ga O
+ga O
+sot O
+te O
+16,000* O
+
+Loathmilkyaourt490ml O
+28,000 O
+28,000* O
+
+62,000 O
+
+Tong O
+cong: O
+
+62,000 B-Amount
+
+thua: O
+
+-38,000 O
+
+(5%:. O
+
+5,636 O
+
+don:2-69106 O
+Thu O
+ngan:120013 O
+
+Neu O
+khach O
+nhu O
+don O
+do, O
+
+nhan O
+vien O
+chung O
+
+gian O
+don O
+ngay O
+
+giai O
+thich O
+Gia O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+AM O
+
+088 O
+02 O
+20180628 O
+0164 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+11:42 O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//AQUAFINA O
+Bottled O
+ttled O
+Water O
+500m O
+5,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+5.000 B-Amount
+
+5,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+Wv..Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0328 O
+
+Date O
+[@28. O
+2018 O
+
+Jun#Date*] O
+06:45 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+MERINO O
+IC O
+X O
+Oats-Green O
+Beans60g O
+10,000 O
+
+1 O
+MERINO O
+ICB.Rice O
+.Beans O
+60g*1S O
+10,000 O
+
+2 O
+Item(s) O
+(VAT O
+inc O
+ncluded) O
+20,000 B-Amount
+
+CASH O
+
+20.000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+1 I-Address
+Pho I-Address
+Quang. I-Address
+W.9.Ph I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+
+02 O
+20180628 O
+0211 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:13 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+1 O
+DC//TEA+Ted O
+Oolong O
+455ml*PT O
+10,000 O
+
+1 O
+Item(s) O
+(VAT O
+inc O
+luded) O
+10,000 B-Amount
+
+CASH O
+
+10,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+525 B-Address
+To I-Address
+HienThanh. I-Address
+Dist I-Address
+10, I-Address
+HCMC I-Address
+
+Receipt O
+No: O
+28 O
+197 O
+02 O
+20180628 O
+0230 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+02:15 O
+PM O
+
+Cashier: O
+8389-Dung O
+Hoang O
+Minh O
+
+Description: O
+
+TOP O
+TEN O
+IC O
+Vanilla O
+57g*1ST O
+13,000 O
+
+1 O
+DC//PEPSI O
+Cola O
+390ml*1PT O
+8,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+21,000 B-Amount
+
+CASH O
+
+21,000 B-Amount
+
+CHANGE O
+
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W. I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0257 O
+
+Date O
+2018 B-Date
+04:03 O
+PM O
+
+Jun O
+5473-Diem O
+28, O
+Tran O
+
+Cashier: O
+Thi O
+Le O
+
+Descr O
+escription: O
+
+
+1 O
+DC//POKEMON O
+Toy O
+Candy O
+18g*1BO O
+23,000 O
+
+*PRO O
+JUN O
+@Reg: O
+26000.00 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+23,000 B-Amount
+
+CASH O
+
+100,000 O
+
+CHANGE O
+
+77.000 O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+PhuNhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+088 O
+20180628 O
+0016 O
+
+No: O
+02 O
+06:44 O
+AM O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+Thu O
+
+Cashier: O
+10130-Hang O
+Tran O
+
+Description: O
+
+DC//TWISTER O
+Juice O
+Orange O
+455ml* O
+12,000 O
+
+*PRO O
+JUN_TWISTER O
+
+DC//TWISTER O
+JuICE O
+Orange O
+455ml* O
+2,000 O
+
+*PRO O
+JUN_TWISTER O
+@Reg: O
+12000.00 O
+
+VIETNAMMOBILE O
+Phone O
+Card O
+Paycod O
+20,000 O
+
+DC//NO.1 O
+Energy O
+330m*1PT O
+9,000 O
+
+Item(s) O
+(VAT O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+pho I-Address
+Quang. I-Address
+W.9 I-Address
+Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+No: O
+PM O
+
+088 O
+02 O
+20180628 O
+0285 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:24 O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+2 O
+DC//THIEN O
+LONG O
+TLO27 O
+Pen*1 O
+@4000 O
+8.000 O
+
+2 O
+DC//THIEN O
+LONG O
+BP O
+Pen O
+Blac O
+@4000 O
+8,000 O
+
+1 O
+NESTLE O
+Milk O
+CCL O
+Classic O
+35g*BAR O
+19,000 O
+
+
+Item(s) O
+(VAT O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vi O
+an O
+vui O
+cong O
+dong O
+
+Cia O
+hang O
+s0 O
+1: O
+
+710/4 B-Address
+D10 I-Address
+Go I-Address
+vap. I-Address
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+h O
+Trang O
+
+Ngay O
+gio: O
+"97 O
+28/06/2018 B-Date
+28/0 O
+7:21:35 O
+
+SOHD: O
+416406 O
+Quay: O
+NQ2 O
+
+Tenhang O
+SL O
+T.Tien O
+
+17,000 O
+17,000 O
+
+Tong O
+.00 O
+17,000 B-Amount
+
+khach O
+dua: O
+17,000 O
+
+Tien O
+
+Xin O
+on O
+va O
+hen O
+gap O
+lai O
+Quy O
+khach! O
+
+Bsmart B-Merchant
+
+94 O
+
+VNCYS O
+376 O
+Le O
+376 O
+L.e B-Address
+DUC I-Address
+Duc I-Address
+Tho, I-Address
+Tho I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+631205 O
+
+Thursday, O
+June B-Date
+07:14:20pm O
+
+SdALE O
+
+sa. O
+
+
+Nuoc O
+
+OISHI O
+bido O
+11,000 O
+VND O
+
+23,00 O
+VND O
+
+AKIKO O
+
+VND O
+
+Vatable O
+2,000 O
+VND O
+
+ND O
+
+62,000 O
+VND O
+
+NGOC O
+DIEP O
+P O
+
+mncount: O
+
+1210636567 O
+790631205 O
+
+thong O
+xua O
+
+khi.mua O
+hang O
+Hod O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+o I-Address
+Quang. I-Address
+W..Ph I-Address
+NhuanD I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0200 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+12:43 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//COCA O
+COLA O
+390m*1PT O
+8,000 O
+
+1 O
+DC///SCHWEPPES O
+Soda O
+Sleek O
+Can O
+an O
+33 O
+7.000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+15,000 B-Amount
+
+15,000 B-Amount
+
+CASH O
+
+
+CHANGE O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+pho I-Address
+Quang. I-Address
+W..Phu I-Address
+NhuanD.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0167 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+11:46 O
+AM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+CK O
+Iced O
+Cup O
+2oz*1CP O
+-2,000 O
+
+1 O
+CB O
+Rice O
+with O
+Egg O
+& O
+SS O
+& O
+SSoUP O
+25,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+27,000 B-Amount
+
+CASH O
+
+27,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D I-Address
+.HCM I-Address
+
+Receipt O
+No: O
+088 O
+
+02 O
+20180628 O
+0234 O
+
+Date O
+: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+02:06 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+PAYOO O
+Service O
+Bill*1UN O
+1,500,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+1,500,000 B-Amount
+
+CASH O
+
+1,500,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+No: O
+088 O
+02 O
+20180628 O
+0214 O
+
+Date: O
+Receipt O
+
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:17 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+NESTEA O
+Tea O
+Lemon O
+Medium O
+160z*1CP O
+9,000 O
+
+1 O
+Item(s) O
+(VAT O
+incl O
+uded) O
+9,000 B-Amount
+
+CASH O
+
+9,000 B-Amount
+
+CHANGE O
+
+
+MIL O
+CONG B-Merchant
+TY I-Merchant
+MINISTOP I-Merchant
+NAM O
+
+STOPO O
+2 O
+Thanh O
+TP O
+
+[@Hoang O
+Van O
+
+Hoang O
+Thu O
+P.6 O
+Q.Tan O
+Binh#Address*] O
+
+23/06/2018 B-Date
+(Thu O
+DON O
+BAN O
+HANG O
+
+tomchuacay67g- O
+
+9 O
+000* O
+
+Modern O
+lauthaitom65 O
+
+23,000 O
+
+cong: O
+
+23,000 B-Amount
+
+23,000 O
+
+============== O
+
+don:2-69177 O
+Thu O
+ngan:120013 O
+
+khach O
+nhu O
+cau O
+don O
+
+vui O
+long O
+lien O
+nhan O
+vien O
+chung O
+toi O
+
+ngay O
+quy O
+khach O
+mua O
+
+hoa O
+la O
+7 O
+ngay. O
+
+giai O
+Gia O
+
+B'smart B-Merchant
+
+E O
+UC O
+Cy O
+
+VNCVS O
+376 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+Duc I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+13094 O
+POS: O
+002RC O
+002 O
+RCPT: O
+
+Thursday, O
+June B-Date
+28, I-Date
+2018 I-Date
+07:30:43pm O
+
+JINOMOTO O
+INOMOTO O
+BOT O
+banh O
+1 O
+21,000 O
+VND O
+
+Total: O
+21,000 B-Amount
+VND I-Amount
+
+1'6909 O
+VND O
+
+Tendered O
+By: O
+
+DIEP O
+21,000 B-Amount
+VND I-Amount
+
+NGOC O
+
+121063656790631 O
+
+bao O
+GTGT O
+cap O
+
+hana O
+ag O
+
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+lu'c O
+i O
+cong O
+dong O
+
+cita O
+hang O
+
+710/4 B-Address
+Phan I-Address
+Van I-Address
+Tri, I-Address
+Go I-Address
+Vap. I-Address
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DON O
+BAN O
+LE O
+
+su': O
+
+iThanh O
+Trang O
+
+28/06/2018 B-Date
+0:17 O
+
+S6HD O
+0416799 O
+Quay: O
+NQ2.1 O
+Ca O
+
+nhang O
+SU O
+D.Gia O
+T.Tien O
+
+toi O
+H.Co O
+65,000 O
+31,720 O
+
+TonG O
+cong O
+: O
+0.49 O
+31,720 B-Amount
+
+Tien O
+khach O
+dua: O
+
+40,000 O
+
+Tien O
+khach: O
+
+8,280 O
+
+Xin O
+cam O
+on O
+va O
+hen O
+gap O
+
+BACH B-Merchant
+HOA I-Merchant
+XANH I-Merchant
+
+w. O
+.bachhoaxanh. O
+.com O
+
+[@330 O
+- O
+332 O
+Phuong O
+6QunGo O
+
+Thanh O
+pho O
+ni O
+Minh#Address*] O
+
+PHIEU O
+THANHTOAN O
+
+so O
+Ct O
+180603471020927 O
+
+Ngay O
+CT: O
+26/06/2018 B-Date
+20:36 O
+
+Nhan O
+vien: O
+Nguyen O
+Thi O
+Thanh O
+
+TTien O
+
+OICAO O
+ROMANO O
+900G O
+
+195,000 O
+195,000 O
+
+Tong O
+tien: O
+195,000 B-Amount
+
+Phai O
+thanh O
+toan: O
+195,000 O
+
+(Da O
+lam O
+tron) O
+
+ai: O
+
+(Gia O
+tren O
+a O
+gom O
+thue O
+GT O
+
+Hoa O
+chixuat O
+hoa O
+
+hu O
+ngan O
+de O
+duoc O
+ngay. O
+
+ho O
+ro. O
+
+ULIILLLUIUI O
+ILILII O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9Phu I-Address
+Nhuan.D I-Address
+HCM I-Address
+
+Receipt O
+
+No: O
+088 O
+02 O
+20180628 O
+0223 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+01:35 O
+PM O
+
+Cashier: O
+10130-Hang O
+Tran O
+Thu O
+
+Description: O
+
+1 O
+DC//TH O
+UHT O
+Milk O
+Sweet O
+180ml*1BO O
+9,000 O
+
+1 O
+CK O
+Dimsum*1UN O
+11,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+20,000 B-Amount
+
+CASH O
+
+20,000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+
+376 O
+
+VNCVS O
+376 O
+Le O
+DUC O
+Le B-Address
+DUC I-Address
+Tho, I-Address
+Tho I-Address
+ward I-Address
+94 I-Address
+6 I-Address
+94 O
+
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+: O
+631071 O
+
+Thursday,u O
+28, O
+09:34:15am O
+
+180ml O
+
+1 O
+8,000 O
+VND O
+
+VND O
+
+Total: O
+vatable O
+17,000 B-Amount
+VND I-Amount
+
+VND O
+
+Tendered O
+By: O
+
+17,000 O
+
+inh O
+Thuy O
+D O
+
+121063656790631071 O
+
+hoa O
+
+a0.x O
+ddn O
+Se O
+cap O
+
+hang O
+au O
+ngay. O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+ian O
+
+No O
+lu'c O
+vi O
+vi O
+vui O
+ui O
+cong O
+dong O
+
+Cira O
+hang O
+s6 O
+1: O
+
+710/4 B-Address
+Phan I-Address
+Van I-Address
+Tri, I-Address
+P.10, I-Address
+vaip. I-Address
+
+ETcia O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+Cong O
+su: O
+Thanh O
+Trang O
+
+28/06/2018 B-Date
+8:54:00 O
+
+0416648 O
+Quay: O
+
+ren O
+hang O
+D.Gia O
+r.tien O
+
+Baro O
+Hanh O
+H.CO O
+.90,000 O
+4,680 O
+
+4,680 B-Amount
+
+0.05 O
+
+Tong O
+
+khach O
+dua: O
+4,680 O
+
+Xin O
+cam O
+on O
+lai O
+Quy O
+khach! O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+ui O
+cong O
+dong O
+
+cita O
+hang O
+so O
+1: O
+
+710/4 B-Address
+Phan I-Address
+P.10G I-Address
+
+DTcira O
+hang:0120 O
+6717 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+Cong O
+
+nh O
+Trang O
+
+28/06/2018 B-Date
+16:35:20 O
+
+SOHD: O
+0416976 O
+221 O
+Ca O
+1 O
+
+en O
+hang O
+D.Gia O
+T.Tien O
+
+Dot O
+Susu O
+(da O
+nhat) O
+65,000 O
+11,050 O
+
+cong O
+: O
+0.17 O
+11,050 B-Amount
+
+khach O
+dua: O
+
+50,000 O
+
+khach: O
+
+38,950 O
+
+Luong O
+Bich O
+Van O
+
+the O
+
+8894988 O
+
+Diem O
+
+75.3 O
+
+NONG B-Merchant
+SAN I-Merchant
+NHA I-Merchant
+QUE I-Merchant
+
+No O
+luc O
+vian O
+vui O
+cong O
+dong O
+
+S01: O
+
+710/4 B-Address
+P.10 I-Address
+Go I-Address
+Vap. I-Address
+
+ETcua O
+hang:0120 O
+358 O
+
+HOA O
+DO'N O
+BAN O
+LE O
+
+e O
+Thi O
+anh O
+Trang O
+
+Ngay O
+gio: O
+16:38:36 O
+
+so O
+0416978 O
+Quay: O
+
+SL O
+D.Gia O
+T.Tien O
+
+Goodmilk O
+34,000 O
+68,000 O
+
+Tong O
+cong O
+2.00 O
+68,000 B-Amount
+
+Tien O
+du'a: O
+70,000 O
+
+Tien O
+khach: O
+2,000 O
+
+Xin O
+on O
+lai O
+Quy O
+khach! O
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang I-Address
+W.9.Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0274 O
+
+Date: O
+Jun B-Date
+2018 I-Date
+05:00 O
+
+28, O
+
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Descripti O
+on: O
+
+1 O
+DC//RED O
+BULL O
+Energy O
+Drink O
+250m O
+11,000 O
+
+1 O
+Item(s) O
+(VAT O
+included) O
+11,000 B-Amount
+
+CASH O
+
+101,000 O
+
+CHANGE O
+
+90,000 O
+
+Bsmart B-Merchant
+
+
+VNCVS O
+376 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+DuC I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+
+Thursday, O
+June B-Date
+unE I-Date
+28, I-Date
+2018 I-Date
+08:50:58pm O
+
+OISHI O
+Banh O
+tom O
+5,500 O
+VND O
+
+HANH O
+DUNG O
+Thach O
+CAYA O
+1 O
+
+VND O
+
+11500 O
+
+vatable O
+
+1,045 O
+ND O
+
+Tendered O
+by: O
+11,500 B-Amount
+VND I-Amount
+
+nGoC O
+DIEP O
+P O
+
+3656790631249 O
+
+bao O
+
+hang O
+a1 O
+
+Bsmart B-Merchant
+
+BC O
+YSU O
+008 O
+
+VNCYS O
+376 O
+376 O
+LE O
+Duc O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+DuC I-Address
+2 I-Address
+Tho, I-Address
+ward I-Address
+6 I-Address
+
+store: O
+13094 O
+POS: O
+002 O
+RCPT: O
+
+Thursday, O
+June B-Date
+28, I-Date
+2018 I-Date
+08:23:53pm O
+
+TOMATI O
+Banh O
+cah O
+
+-0 O
+
+Total: O
+
+vatable O
+9'545 O
+vnd O
+
+'955 O
+VND O
+
+By: O
+10,500 B-Amount
+VND I-Amount
+
+NGOC O
+P O
+
+Item O
+
+12106355679063123 O
+
+* O
+* O
+* O
+* O
+** O
+* O
+
+bao O
+
+
+hI O
+ang O
+nga O
+
+CIRCLE B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Nhuan.D.HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0350 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+07:59 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Description: O
+
+1 O
+CORNETTO O
+Vani O
+Classic O
+66g*1C O
+16,000 O
+
+1 O
+DC//MARLBORO O
+Light O
+20s*1PK O
+29,000 O
+
+1 O
+TOP O
+TUP O
+TEN O
+IC O
+Chocolate O
+57g*1ST O
+13,000 O
+
+1 O
+CORNETTO O
+Royale O
+Chocoluv O
+88g*1C O
+20,000 O
+
+BETAGEN O
+
+B'smart B-Merchant
+
+B O
+E O
+
+VNCVS O
+376 O
+76 O
+Le O
+DUC O
+Tho O
+94 O
+
+376 B-Address
+Le I-Address
+Duc I-Address
+Tho I-Address
+, O
+
+ThursdayJ O
+13094 O
+002 O
+CPTO5:44303pm O
+
+june O
+
+WONDERFARM O
+T O
+Tra O
+bi O
+d O
+VND O
+3,500 O
+VND O
+
+,000 O
+3,500 O
+OVND O
+
+chuoi O
+praT O
+
+:8.000 O
+VND O
+-1,500 O
+VND O
+
+Total O
+vatable O
+10.000 B-Amount
+
+9,322 O
+
+5,00 O
+VND O
+
+P O
+P O
+
+Item O
+
+3656790631177 O
+
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+* O
+thong O
+bao O
+don O
+
+hima O
+hang O
+se O
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.9. I-Address
+Phu I-Address
+Nhuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0271 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+04:52 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+Le O
+
+Descripti O
+
+2 O
+CK O
+Fried O
+Egg O
+*1UN O
+@6000 O
+12.000 O
+
+1 O
+CK O
+JP O
+Extra O
+Rice*1POR O
+4,000 O
+
+3 O
+Item(s) O
+(VAT O
+incl O
+luded) O
+16,000 B-Amount
+
+CASH O
+
+16,000 B-Amount
+
+CHANGE O
+
+
+CIRCLEK B-Merchant
+VIETNAM I-Merchant
+
+124 B-Address
+Pho I-Address
+Quang. I-Address
+W.PhuNuan.D. I-Address
+HCM I-Address
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0239 O
+
+Date: O
+[@28, O
+
+Jun O
+2018#Date*] O
+02:39 O
+PM O
+
+Cashier: O
+5473-Diem O
+Tran O
+Thi O
+LE O
+
+Description: O
+
+1 O
+NESTEA O
+Tea O
+Lemon O
+Small O
+12oz*1CP O
+7.000 O
+
+1 O
+CK O
+Mixed O
+Noodle O
+with O
+Fried O
+Egg O
+14,000 O
+
+DC//COCOXIM O
+Coconut O
+Water O
+330ml O
+16,000 O
+
+3 O
+Item(s) O
+(VAT O
+included) O
+37,000 B-Amount
+
+CIRCLE B-Merchant
+K I-Merchant
+VIETNAM I-Merchant
+
+[@124 O
+Pho O
+Quang O
+HCM O
+
+ho O
+W.9. O
+Phu O
+Nhuan.D#Address*] O
+
+Receipt O
+No: O
+088 O
+02 O
+20180628 O
+0297 O
+
+Date: O
+Jun B-Date
+28, I-Date
+2018 I-Date
+05:40 O
+PM O
+
+Cashier: O
+5473-Diem O
+UEM O
+Tran O
+Thi O
+hI O
+Le O
+
+Description: O
+
+2 O
+FOHLA O
+Banana O
+1 O
+Unit*PA O
+@9000 O
+18,000 O
+
+2 O
+Item(s) O
+(VAT O
+included) O
+
+18,000 B-Amount
+
+CASH O
+
+18.000 B-Amount
+
+CHANGE O
+
+
+B'smart B-Merchant
+
+B O
+OU O
+CO:C2 O
+
+VNCYS O
+376 O
+Le O
+Duc O
+Tho, O
+ward O
+94 O
+6 O
+
+376 B-Address
+Le I-Address
+DuC I-Address
+Tho I-Address
+
+
+store: O
+13094 O
+POs: O
+002 O
+002 O
+631065 O
+
+Thursday, O
+2018 B-Date
+08:58:41am O
+
+AQUAFINA O
+NUDC O
+tinh O
+1 O
+10,000 O
+VND O
+
+Total: O
+atable O
+10.000 B-Amount
+VND I-Amount
+
+9,091 O
+vnD O
+
+Tendered O
+By: O
+
+pinh O
+Thuy O
+D O
+10,000 B-Amount
+VND I-Amount
+
+12106365679063 O
+
+khach O
+thong O
+bao O
+
+xuat O
+
+GTGT O
+
+hana O
+ang O
+oay O
+
