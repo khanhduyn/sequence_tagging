@@ -147,10 +147,7 @@ input> I love Paris""")
 
         # for key, seq in to_print.items():
             # model.logger.info(seq)
-
-
-def main():
-    # create instance of config
+def load_model():
     config = Config()
 
     # build model
@@ -158,16 +155,10 @@ def main():
     model.build()
     model.restore_session(config.dir_model)
 
-    # create dataset
-    test  = CoNLLDataset(config.filename_test, config.processing_word,
-                         config.processing_tag, config.max_iter)
+    return model
 
-    # evaluate and interact
-    # DkS, stop evaluate
-    # model.evaluate(test)
-    # interactive_shell(model)
-    test_string = TEXT_STR_3
-    lines = test_string.split('\n')
+def predict_from_text(model, text):
+    lines = text.split('\n')
     words = []
     prediction = []
     for line in lines:
@@ -184,7 +175,29 @@ def main():
         value = get_data_from_key({'input': words, 'output': prediction}, key)
         if len(value) > 0:
             response[key] = value
+    return response
 
+
+def main():
+    model = load_model()
+    # create instance of config
+    # config = Config()
+
+    # # build model
+    # model = NERModel(config)
+    # model.build()
+    # model.restore_session(config.dir_model)
+
+    # create dataset
+    # test  = CoNLLDataset(config.filename_test, config.processing_word,
+    #                      config.processing_tag, config.max_iter)
+
+    # evaluate and interact
+    # DkS, stop evaluate
+    # model.evaluate(test)
+    # interactive_shell(model)
+    test_string = TEXT_STR_3
+    response = predict_from_text(model, test_string)
 
     print(response)
 
